@@ -1,0 +1,85 @@
+# All workbooks in one file
+# This allows for creating workbooks (by selecting from the array)
+# But also more "global" things
+
+# The data structure is an "array of tables" - called workbook
+# There should be 12 (1 per workbook)
+# But also remember... While the workbooks are 1-12, the array entries are 
+# 0-11
+
+# question... is it better to have things as arrays (for easy looping) 
+# or tables (for access by name)
+# for some things, I am picking tables - make the keys be ordered so they list nicely (we )
+
+# each workbook should have...
+#   number (this should be index+1 - but its the actual number)
+#   name (text string - without "Workbook X")
+#   due (date of the Monday that the assignment is due)
+#   learninggoals (array of strings)
+#   points (table of rubric items - for NON-BONUS points)
+#       note: this is a table so it can be referred to easily by item
+#           make sure that the keys are named so they come out in the
+#           right order while alphabetized
+#   bonus (table of bonus points)
+
+# there is a ton of other information that might be useful, however
+# it's not clear how much we can make use of information in these things
+# things I might want to add:
+#   readings (table of external readings)
+
+######################################################################
+[[workbook]] # Workbook 1
+number = 1
+name = "Introduction (Pre-Graphics)"
+due = "01-Feb-2021"
+learninggoals = [
+    "Understand and use the class mechanics (GitHub classroom links, Git, local servers, editing pages, ...)",
+    "Understand the organization of workbooks for the class (looking at pages, boxes, editing and adding things, turning things in)",
+    "Review basic HTML that you will need for class",
+    "Practice basic JavaScript and understand how to attach programs to web pages",
+    "Make interactions and animations with JavaScript web pages",
+    "Differentiate and use event-driven- and animation-loop-driven- programming",
+    "Practice writing JavaScript and check your tool setup"
+]
+[workbook.points]
+    rb1 = { points=50, box="NB", desc="correctly turning something in (committing changes and pushing it back to GitHub)"}
+    rb2 = { points=5,  box="NB", desc="correct README (**not this year**)"}
+    rb3 = { points=10, box="6-1", desc="see page (should be explained)"}
+
+######################################################################
+[[workbook]] # Workbook 2
+number = 2
+name = "Graphics APIs and Drawing Basics"
+due = "08-Feb-2021"
+learninggoals = [
+    "To introduce the idea of object-based graphics as opposed to image-based graphics",
+    "To show the two different types of graphics APIs, immediate mode and retained mode",
+    "To give you experience programming with the Canvas API that web browsers provide",
+    "To give you exposure to SVG, which we will look at more in the future",
+    "To see how the event and animation loop models introduced in the previous workbook are used in graphics",
+    "To get more practice with reading and writing JavaScript programs"
+]
+points = [
+    { points=50, box="NB", desc="blah"},
+    { points=5,  box="NB", desc="correct README (**not this year**)"},
+    { points=10, box="6-1", desc="see page (should be explained)"}
+]
+bonus = [
+    { desc="one", points=10 }
+]
+
+
+##############################################################
+## Examples for testing
+[tests]     # should be outside of workbooks
+array = ["one","two","three","four"]
+dict = {a=1,b=2,c=3,d=4}
+[tests.table]
+z="one"
+y="two"
+x="three"
+[tests.mix]
+a=5
+z=4
+b=7
+d=2
