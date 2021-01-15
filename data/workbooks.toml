@@ -14,6 +14,7 @@
 # everything for a box
 
 # each workbook should have...
+#   brief - a brief description (first thing on the page)
 #   number (this should be index+1 - but its the actual number)
 #   name (text string - without "Workbook X")
 #   due (date of the Monday that the assignment is due)
@@ -112,6 +113,16 @@ name = "3D and Three"
 number = 8
 name = "Transformation and Hierarchy in Three.js"
 due = 2021-03-29
+brief = "This week, we'll continue to do more THREE programming, with a focus on using THREE's mechanisms for transformation and hierarchy to make more interesting things."
+learninggoals = [
+    "To gain some experience doing hierarchical modeling, particularly for animation",
+    "To get some practice working with 3D rotations",
+    "To get some experience working with the CS559 framework code",
+    "To get more practice working with a modern scene graph API",
+    "To see some details of how different rotation representation are used",
+    "To get some exposure to modern JavaScript features like classes",
+    "To get some experience working with another person’s code"
+]
 
 ######################################################################
 [[workbook]] # Workbook 9
