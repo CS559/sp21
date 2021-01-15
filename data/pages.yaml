@@ -1,0 +1,555 @@
+# general stuff
+hugo:
+  url: https://gohugo.io/
+  name: "Hugo"
+jsdoc:
+  name: "jsdoc"
+  url: http://usejsdoc.org/
+ellas-deli:
+  name: "Ella's Deli"
+  url: http://www.ellasdeli.com/carousel.php
+trip-savvy:
+  name: "Trip Savvy"
+  url: https://www.tripsavvy.com/types-of-theme-park-attractions-4110823
+
+# Shading documentation (things that might get updated)
+gles-ref-card:
+  url: https://www.khronos.org/files/opengles32-quick-reference-card.pdf
+  name: "OpenGL ES Reference Card"
+webgl-ref-card:
+  url: https://www.khronos.org/files/webgl20-reference-guide.pdf
+  name: "WebGL Reference Card"
+# Chapters of the GLSL book
+glsl-1:
+  url: https://canvas.wisc.edu/files/12330188
+  name: "OpenGL Shading Language (3e) Chapter 1"
+glsl-2:
+  url: https://canvas.wisc.edu/files/12330187
+  name: "OpenGL Shading Language (3e) Chapter 2"
+glsl-3:
+  url: https://canvas.wisc.edu/files/12330186
+  name: "OpenGL Shading Language (3e) Chapter 3"
+glsl-4:
+  url: https://canvas.wisc.edu/files/12330185
+  name: "OpenGL Shading Language (3e) Chapter 4"
+glsl-5:
+  url: https://canvas.wisc.edu/files/12330184
+  name: "OpenGL Shading Language (3e) Chapter 5"
+glsl-6:
+  url: https://canvas.wisc.edu/files/12330181
+  name: "OpenGL Shading Language (3e) Chapter 6"
+glsl-book:
+  url: https://amzn.to/2x9wtyF
+  name: "The OpenGL Shading Language (3e)"
+
+# Course Web
+course-web:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/
+  name: "Course Web"
+workbooks:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/pages/workbooks/
+  name: Workbooks
+getting-started:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/pages/getting-started/
+  name: "Getting Started"
+tools:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/pages/tools/
+  name: "Tools"
+git:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/pages/git/
+  name: "GIT"
+javascript:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/pages/javascript/
+  name: "CS559 JavaScript page"
+vscode:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/pages/vscode/
+  name: "Visual Studio Code for CS559"
+typed-js:
+  name: "Typed Java Script and CS559"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/pages/typed-js/
+books:
+  name: "Books Page"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/pages/books/
+traditional-oop-js:
+  name: "Traditional Object Oriented Program in JavaScript Tutorial"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/pages/oop-in-js/
+
+explore-js:
+  name: "Exploring JS Ch15"
+  url: http://exploringjs.com/es6/ch_classes.html
+
+framework-documentation:
+  name: "Framework Documentation"
+  url: https://cs559.github.io/CS559-Framework/
+framework-demos:
+  name: "Framework Demos"
+  url: https://cs559.github.io/S20-FrameworkDemos/
+
+# Web Tutorials and references
+learning-html:
+  url: https://developer.mozilla.org/en-US/docs/Learn/HTML
+  name: "Mozilla HTML Learning Guide"
+getting-started-html:
+  url: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+  name: "Mozilla Getting Started with HTML"
+request-animation-frame:
+  name: "Official RequestAnimationFrame Docs"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame
+mozilla-css:
+  name: "Mozilla Tutorial on CSS"
+  url: https://developer.mozilla.org/en-US/docs/Learn/CSS
+
+mozilla-canvas:
+  name: "Mozilla (Official) Canvas Tutorial (top level)"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial
+mozilla-canvas-basic:
+  name: "Mozilla (Official) Canvas Tutorial: Getting Started"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage
+mozilla-canvas-shapes:
+  name: "Mozilla (Official) Canvas Tutorial: Drawing Shapes"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
+mozilla-canvas-styles:
+  name: "Mozilla (Official) Canvas Tutorial: Styles"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors
+mozilla-canvas-current-transform:
+  name: "Canvas Current Transform"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/currentTransform
+mozilla-canvas-transform:
+  name: "Canvas Transform"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/transform
+mozilla-canvas-set-transform:
+  name: "Canvas Set Transform"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/setTransform
+
+mozilla-canvas-api:
+  name: "Mozilla (Official) Canvas API Documentation"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
+
+mozilla-vector:
+  name: "Mozilla (Official) Vector Graphics"
+  url: https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web
+
+mozilla-svg:
+  name: "Mozilla Tutorial"
+  url: https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
+
+mozilla-typed-array:
+  name: "TypedArray objects"
+  url: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
+
+craig-reynolds:
+  name: "Craig Reynolds"
+  url: http://www.red3d.com/cwr/
+craig-reynolds-flocking-paper:
+  name: "Craig Reynolds Flocking Paper"
+  url: https://dl.acm.org/citation.cfm?id=37406
+craig-reynolds-boids-page:
+  name: "Craig Reynolds Boids Page"
+  url: http://www.red3d.com/cwr/boids/
+craig-reynolds-steering-behavior:
+  name: "Craig Reynolds Steering Behavior"
+  url: http://www.red3d.com/cwr/steer/gdc99/
+
+threejs:
+  name: "THREE.js Documentation"
+  url: https://threejs.org/docs/
+threejs-object3D:
+  name: "documentation for `Object3D`"
+  url: https://threejs.org/docs/index.html#api/en/core/Object3D
+threejs-group:
+  name: "documentation for `Group`"
+  url: (https://threejs.org/docs/index.html#api/en/objects/Group
+threejs-orbitControls:
+  name: "documentation for `OrbitControls`"
+  url: https://threejs.org/docs/#examples/controls/OrbitControls
+threejs-webGlRenderer:
+  name: "WebGLRenderer"
+  url: https://threejs.org/docs/index.html#api/en/renderers/WebGLRenderer
+threejs-axesHelper:
+  name: "AxesHelper"
+  url: https://threejs.org/docs/#api/en/helpers/AxesHelper
+threejs-cameraHelper:
+  name: "CameraHelper"
+  url: https://threejs.org/docs/#api/en/helpers/CameraHelper
+threejs-mesh:
+  name: "Mesh"
+  url: https://threejs.org/docs/index.html#api/en/objects/Mesh
+threejs-meshStandardMaterial:
+  name: "MeshStandardMaterial"
+  url: https://threejs.org/docs/#api/en/materials/MeshStandardMaterial
+threejs-meshPhongMaterial:
+  name: "MeshPhongMaterial"
+  url: https://threejs.org/docs/#api/en/materials/MeshPhongMaterial
+threejs-matrix:
+  name: "matrix transformations"
+  url: https://threejs.org/docs/#manual/en/introduction/Matrix-transformations
+threejs-perspectiveCamera:
+  name: "PerspectiveCamera"
+  url: https://threejs.org/docs/#api/en/cameras/PerspectiveCamera
+threejs-ambientLight:
+  name: "AmbientLight"
+  url: https://threejs.org/docs/#api/en/lights/AmbientLight
+threejs-pointLight:
+  name: "PointLight"
+  url: https://threejs.org/docs/#api/en/lights/PointLight
+threejs-spotLight:
+  name: "SpotLight"
+  url: https://threejs.org/docs/#api/en/lights/SpotLight
+threejs-directionalLight:
+  name: "DirectionalLight"
+  url: https://threejs.org/docs/#api/en/lights/DirectionalLight
+threejs-sphere:
+  name: "sphere"
+  url: https://threejs.org/docs/api/en/geometries/SphereGeometry.html
+threejs-cone:
+  name: "cone"
+  url: https://threejs.org/docs/#api/en/geometries/ConeGeometry
+threejs-lathe:
+  name: "lathe"
+  url: https://threejs.org/docs/#api/en/geometries/LatheGeometry
+
+threejs-getting-started:
+  name: "THREE.js Getting Started"
+  url: https://github.com/mrdoob/three.js/wiki/Getting-Started
+threejs-tutorial:
+  name: "THREE.js Tutorial"
+  url: https://medium.com/@benjamin.c.coleman/the-beginners-guide-to-beginning-three-js-c36b8947c2aa
+aviator-game:
+  name: "Aviator Game"
+  url: https://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/
+snowman-wikipedia:
+  name: "Snowman"
+  url: https://en.wikipedia.org/wiki/Snowman
+roundabout-wikipedia:
+  name: "Roundabout"
+  url: https://en.wikipedia.org/wiki/Roundabout_(play)
+
+concrete-pumper-1:
+  name: "Potratz"
+  url: http://www.potratzsouth.com/
+concrete-pumper-2:
+  name: "Gordy's"
+  url: http://gordysconcretepumping.com/
+pile-driver:
+  name: "Pile Driver"
+  url: https://en.wikipedia.org/wiki/Pile_driver
+
+# CS559 Tutorials Past
+color:
+  url: http://graphics.cs.wisc.edu/WP/tutorials/color-initial-answers-to-a-practical-question
+  name: "CS559 Color Tutorial"
+points-vectors:
+  url: https://graphics.cs.wisc.edu/WP/tutorials/points-vectors-and-coordinate-systems-why-are-points-and-vectors-different/
+  name: "CS559 Tutorial: Points, Vectors, Coordinate System Note"
+raster-vector:
+  url: https://graphics.cs.wisc.edu/WP/tutorials/image-based-graphics-vs-object-based-graphics/
+  name: "CS559 Tutorial: Image-Based vs. Object-Based Graphics"
+what-is-pixel:
+  url: https://graphics.cs.wisc.edu/WP/tutorials/what-is-a-pixel-and-what-is-a-point-sample/
+  name: "CS559 Tutorial: What is a Pixel"
+when-do-i-draw:
+  url: https://graphics.cs.wisc.edu/WP/tutorials/when-do-i-draw-some-comments-on-code-organization/
+  name: "CS559 Tutorial: When do I draw (2015)"
+svg1:
+  url: https://graphics.cs.wisc.edu/WP/cs559-fall2014/2014/08/30/getting-started-with-svg/
+  name: "CS559 SVG Tutorial Part 1: Getting Started with SVG"
+svg2:
+  url: https://graphics.cs.wisc.edu/WP/cs559-fall2014/2014/09/04/svg2-coordinate-systems/
+  name: "CS559 SVG Tutorial Part 2: Coordinate Systems"
+svg3:
+  url: https://graphics.cs.wisc.edu/WP/cs559-fall2014/2014/09/05/tutorial-svg3/
+  name: "CS559 SVG Tutorial Part 3: Manipulating Primitives"
+svg4:
+  url: https://graphics.cs.wisc.edu/WP/cs559-fall2014/2014/09/06/svg4-groups-transforms-re-use-and-hierarchies/
+  name: "CS559 SVG Tutorial Part 4: Groups, Transformations, Re-Use and Hierarchies"
+svg5:
+  url: https://graphics.cs.wisc.edu/WP/cs559-fall2014/2014/09/09/svg5-more-transforms-and-composition/
+  name: "CS559 SVG Tutorial Part 5: Transformations and Composition"
+svg6:
+  url: https://graphics.cs.wisc.edu/WP/cs559-fall2014/2014/09/28/svg6-paths-and-beziers/
+  name: "CS559 SVG Tutorial Part 6: Paths and Beziers"
+
+2015-quadcopter-assignment:
+  url: http://graphics.cs.wisc.edu/WP/cs559-fall2015/2015/09/03/programming-assignment-2/
+  name: "2015 Quadcopter Assignment"
+2015-quadcopter-example:
+  url: http://graphics.cs.wisc.edu/Courses/559-f2015/Examples/QuadCopter/quad.html
+  name: "2015 Quadcopter Example"
+
+2008-boids-example:
+  url: http://pages.cs.wisc.edu/~gleicher/Hacks/Boids/
+  name: "2008 Boids Example"
+
+2010-games-project:
+  url: http://graphics.cs.wisc.edu/Courses/Games10/Main/Project1
+  name: "2010 Games Class Projects"
+2012-games-project:
+  url: http://graphics.cs.wisc.edu/WP/games12/2012/09/06/project-1-an-in-browser-game-with-flocking/
+  name: "2012 Games Class Projects"
+ian-irene-games-project:
+  url: http://graphics.cs.wisc.edu/Courses/Games10/proj1/RaeShei/
+  name: "Ian and Irene's Asteroids Game"
+jeff-chris-games-project:
+  url: http://graphics.cs.wisc.edu/Courses/Games10/proj1/HugoMills/
+  name: "Jeff and Chris' Sheep Herder Game"
+
+2014-train:
+  url: http://graphics.cs.wisc.edu/WP/cs559-fall2014/2014/10/13/project-1-trains-and-roller-coasters/
+  name: "2014 Train Assignment"
+1999-train:
+  url: https://research.cs.wisc.edu/graphics/Courses/638-f1999/
+  name: "1999 Train Assignment"
+
+2008-constructionsite:
+  name: "2008 Construction Site"
+  url: https://graphics.cs.wisc.edu/Courses/559-f2008/posts/assignments-constructionsite/
+2008-excavator:
+  name: "2008 Excavator"
+  url: https://graphics.cs.wisc.edu/Courses/559-f2008/posts/assignments-excavator/
+
+# Canvas Quizzes
+canvas-quiz-1:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735644
+  name: "Quiz 1: Pre-Graphics and APIs"
+canvas-quiz-2:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735645
+  name: "Quiz 2: Coordinate Systems"
+canvas-quiz-3:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735646
+  name: "Quiz 3: Working in 2D"
+canvas-quiz-4:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735647
+  name: "Quiz 4: Curves"
+canvas-quiz-5:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735648
+  name: "Quiz 5: 3D Basics"
+canvas-quiz-6:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735649
+  name: "Quiz 6: 3D Transformations"
+canvas-quiz-7:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735650
+  name: "Quiz 7: Lighting and Texturing"
+canvas-quiz-8:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735651
+  name: "Quiz 8: Advanced Texturing"
+canvas-quiz-9:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735652
+  name: "Quiz 9: 3D and Perception"
+canvas-quiz-10:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735653
+  name: "Quiz 10: Shaders"
+canvas-quiz-11:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735654
+  name: "Quiz 11: Shape and Motion"
+canvas-quiz-12:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735655
+  name: "Quiz 12: Rendering and Review"
+
+# canvas workbook links
+canvas-workbook-1:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735440
+  name: "Workbook 1: Getting Started"
+canvas-workbook-2:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735441
+  name: "Workbook 2: Two APIs"
+canvas-workbook-3:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735442
+  name: "Workbook 3: Transformations"
+canvas-workbook-4:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735443
+  name: "Workbook 4: Transformations and Flocking"
+canvas-workbook-5:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735444
+  name: "Workbook 5: Curves"
+canvas-workbook-6:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735445
+  name: "Workbook 6: 3D and Trains"
+canvas-workbook-7:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735446
+  name: "Workbook 7: 3D and THREE"
+canvas-workbook-8:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735447
+  name: "Workbook 8: Hierarchical Models"
+canvas-workbook-9:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735448
+  name: "Workbook 9: Meshes and Textures"
+canvas-workbook-10:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735449
+  name: "Workbook 10: Advanced Textures"
+canvas-workbook-11:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735450
+  name: "Workbook 11: Shaders"
+canvas-workbook-12-(final):
+  url: https://canvas.wisc.edu/courses/189896/assignments/735451
+  name: "Workbook 12 (Final): Graphics Town"
+canvas-midterm-exam:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735656
+  name: "Midterm Exam"
+canvas-final-exam:
+  url: https://canvas.wisc.edu/courses/189896/assignments/735657
+  name: "Final Exam"
+
+# Books Visa Library
+FCG-library:
+  url: https://ebookcentral.proquest.com/lib/wisc/detail.action?docID=4710787
+  name: "Foundations of Computer Graphics 4e from UW Library (Proquest)"
+
+# Canvas Files:
+FCG4_Ch01:
+  url: https://canvas.wisc.edu/files/11034173/
+  name: "Fundamentals of CG-Ch01.pdf"
+FCG4_Ch02:
+  url: https://canvas.wisc.edu/files/10881397/
+  name: "Fundamentals of CG-Ch02.pdf"
+FCG4_Ch03:
+  url: https://canvas.wisc.edu/files/10881409/
+  name: "Fundamentals of CG-Ch03.pdf"
+FCG4_Ch04:
+  url: https://canvas.wisc.edu/files/10881413/
+  name: "Fundamentals of CG-Ch04.pdf"
+FCG4_Ch05:
+  url: https://canvas.wisc.edu/files/10881414/
+  name: "Fundamentals of CG-Ch05.pdf"
+FCG4_Ch06:
+  url: https://canvas.wisc.edu/files/10881412/
+  name: "Fundamentals of CG-Ch06.pdf"
+FCG4_Ch07:
+  url: https://canvas.wisc.edu/files/10881403/
+  name: "Fundamentals of CG-Ch07.pdf"
+FCG4_Ch08:
+  url: https://canvas.wisc.edu/files/10881415/
+  name: "Fundamentals of CG-Ch08.pdf"
+FCG4_Ch10:
+  url: https://canvas.wisc.edu/files/10881456/
+  name: "Fundamentals of CG-Ch10.pdf"
+FCG4_Ch11:
+  url: https://canvas.wisc.edu/files/10881447/
+  name: "Fundamentals of CG-Ch11.pdf"
+FCG4_Ch12:
+  url: https://canvas.wisc.edu/files/10881457/
+  name: "Fundamentals of CG-Ch12.pdf"
+FCG4_Ch13:
+  url: https://canvas.wisc.edu/files/10881458/
+  name: "Fundamentals of CG-Ch13.pdf"
+FCG4_Ch15:
+  url: https://canvas.wisc.edu/files/10881438/
+  name: "Fundamentals of CG-Ch15.pdf"
+FCG4_Ch16:
+  url: https://canvas.wisc.edu/files/10881478/
+  name: "Fundamentals of CG-Ch16.pdf"
+FCG4_Ch17:
+  url: https://canvas.wisc.edu/files/10881460/
+  name: "Fundamentals of CG-Ch17.pdf"
+FCG4_Ch18:
+  url: https://canvas.wisc.edu/files/10881479/
+  name: "Fundamentals of CG-Ch18.pdf"
+FCG4_Ch19:
+  url: https://canvas.wisc.edu/files/10881480/
+  name: "Fundamentals of CG-Ch19.pdf"
+FCG4_Ch20:
+  url: https://canvas.wisc.edu/files/10881461/
+  name: "Fundamentals of CG-Ch20.pdf"
+Hart-everything-18Jan19:
+  url: https://canvas.wisc.edu/files/10881400/
+  name: "Hart-everything-18Jan19.pdf"
+Hart01-jan19:
+  url: https://canvas.wisc.edu/files/10881395/
+  name: "Hart-Ch1.pdf"
+Hart02-jan19:
+  url: https://canvas.wisc.edu/files/10881420/
+  name: "Hart-Ch2.pdf"
+Hart03-jan19:
+  url: https://canvas.wisc.edu/files/10881421/
+  name: "Hart-Ch3.pdf"
+Hart04-jan19:
+  url: https://canvas.wisc.edu/files/10881407/
+  name: "Hart-Ch4.pdf"
+Hart05-jan19:
+  url: https://canvas.wisc.edu/files/10881406/
+  name: "Hart-Ch5.pdf"
+Hart06-jan19:
+  url: https://canvas.wisc.edu/files/10881408/
+  name: "Hart-Ch6.pdf"
+Hart07-jan19:
+  url: https://canvas.wisc.edu/files/10881411/
+  name: "Hart-Ch7.pdf"
+Hart08-jan19:
+  url: https://canvas.wisc.edu/files/10881410/
+  name: "Hart-Ch8.pdf"
+Hart09-jan19:
+  url: https://canvas.wisc.edu/files/10881454/
+  name: "Hart-Ch9.pdf"
+Hart12-jan19:
+  url: https://canvas.wisc.edu/files/10881398/
+  name: "Hart-Ch12.pdf"
+Hart13-jan19:
+  url: https://canvas.wisc.edu/files/10881422/
+  name: "Hart-Ch13.pdf"
+Hart14-jan19:
+  url: https://canvas.wisc.edu/files/10881399/
+  name: "Hart-Ch14.pdf"
+Hart15-jan19:
+  url: https://canvas.wisc.edu/files/10881451/
+  name: "Hart-Ch15.pdf"
+Hart16-jan19:
+  url: https://canvas.wisc.edu/files/10881455/
+  name: "Hart-Ch16.pdf"
+Hart20-jan19:
+  url: https://canvas.wisc.edu/files/10881446/
+  name: "Hart-Ch20.pdf"
+Hart21-jan19:
+  url: https://canvas.wisc.edu/files/10881396/
+  name: "Hart-Ch21.pdf"
+pla_library:
+  url: https://search.library.wisc.edu/catalog/9911163667202121
+  name: "Practical Linear Algebra at the UW Library"
+pla_chapter_1:
+  url: https://canvas.wisc.edu/files/10881405/
+  name: "Practical Linear Algebra-Ch1.pdf"
+pla_chapter_2:
+  url: https://canvas.wisc.edu/files/10881401/
+  name: "Practical Linear Algebra-Ch2.pdf"
+pla_chapter_4:
+  url: https://canvas.wisc.edu/files/10881402/
+  name: "Practical Linear Algebra-Ch4.pdf"
+RTR4_Ch02:
+  url: https://canvas.wisc.edu/files/10881475/
+  name: "RTR4_Ch02.pdf"
+RTR4_Ch03:
+  url: https://canvas.wisc.edu/files/10881476/
+  name: "RTR4_Ch03.pdf"
+RTR4_Ch04:
+  url: https://canvas.wisc.edu/files/10881477/
+  name: "RTR4_Ch04.pdf"
+RTR4_Ch05:
+  url: https://canvas.wisc.edu/files/10881505/
+  name: "RTR4_Ch05.pdf"
+RTR4_Ch06:
+  url: https://canvas.wisc.edu/files/10881506/
+  name: "RTR4_Ch06.pdf"
+RTR4_Ch07:
+  url: https://canvas.wisc.edu/files/10881449/
+  name: "RTR4_Ch07.pdf"
+RTR4_Ch09:
+  url: https://canvas.wisc.edu/files/10881450/
+  name: "RTR4_Ch09.pdf"
+RTR4_Ch10_local_lighting:
+  url: https://canvas.wisc.edu/files/10881504/
+  name: "RTR4_Ch10_local_lighting.pdf"
+RTR4_Ch13:
+  url: https://canvas.wisc.edu/files/10881474/
+  name: "RTR4_Ch13.pdf"
+RTR4_Ch17_curves:
+  url: https://canvas.wisc.edu/files/10881507/
+  name: "RTR4_Ch17_curves.pdf"
+
+# Kaltura
+DeCastlejau_2:
+  url: https://mediaspace.wisc.edu/media/1_ht8bd4ii
+  name: "DeCastlejau 2"
+DeCastlejau_3:
+  url: https://mediaspace.wisc.edu/media/1_yfe2pejr
+  name: "DeCastlejau 3"
+DeCastlejau_4:
+  url: https://mediaspace.wisc.edu/media/1_b45evtd7
+  name: "DeCastlejau 4"
