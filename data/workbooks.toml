@@ -123,6 +123,53 @@ learninggoals = [
     "To get some exposure to modern JavaScript features like classes",
     "To get some experience working with another person’s code"
 ]
+points = [
+    { points =  5, page = "none", box="none", desc="correct readme (that explains what you’ve done)"},
+    { points =  5, page = "none", box="none", desc="experimenting with the demos on pages 2 and 3. We’ll just trust that you’ve done it if you turn any other part in."},
+    ## Quadcopter
+    { points = 3, page = 6, box="6-1", desc="Some aircraft that isn’t a donut"},
+    { points = 4, page = 6, box="6-1", desc="A propeller that spins (not the body)"},
+    { points = 3,  page = 6, box="6-1", desc="More than one propeller spinning"},
+    { points = 3,  page = 6, box="6-1", desc="(at least) One aircraft that flies in a circle (or curved path)"},
+    { points = 3,  page = 6, box="6-1", desc="aircraft point forward (and turn in the direction of motion)"},
+    { points = 2,  page = 6, box="6-1", desc="Radar dish (or some object)"},
+    { points = 4,  page = 6, box="6-1", desc="Correctly points at aircraft (tracks as aircraft moves)"},
+    { points = 2,  page = 6, box="6-1", desc="multiple aircraft"},
+    ## Graphics Park
+    { points = 2,  page = 8, box="8-1", desc="take out bouncing cube"},
+    { points = 3,  page = 8, box="8-1", desc="place at least 1 more swing"},
+    { points = 2,  page = 8, box="8-1", desc="place carousel"},
+    { points = 6,  page = 8, box="8-1", desc="carousel has poles and horses"},
+    { points = 7,  page = 8, box="8-1", desc="carousel has correct motion (spins, horses go up and down)"},
+    { points = 5,  page = 8, box="8-1", desc="fancier looking carousel"},
+    { points = 5,  page = 8, box="8-1", desc="more theme park rides"},
+    ## construction
+    { points = 5,  page = 9, box="8-1", desc="equipment 1 is identifiable (can tell what it is)"},
+    { points = 5,  page = 9, box="9-1", desc="equipment 2 is identifiable"},
+    { points = 5,  page = 9, box="9-1", desc="more then 2 dof between 1&2"},
+    { points = 5,  page = 9, box="9-1", desc="UI works for 1&2"},
+    { points = 5,  page = 9, box="9-1", desc="articulated things work correctly"},
+    { points = 5,  page = 9, box="9-1", desc="extra articulated machine (different type)"},
+    { points = 3,  page = 9, box="9-1", desc="some objects have 4+ d.o.f. (beyond position/orientation)"},
+    { points = 3,  page = 9, box="9-1", desc="nice shapes"},
+    { points = 1,  page = 9, box="9-1", desc="good use of colors/materials"},
+    { points = 3,  page = 9, box="9-1", desc="other coolness"}
+]
+bonus = [
+    ## Quadcopter
+    { points = 2, page = "6", box="6-1", desc=" cool aircraft"},
+    { points = 2, page = "6", box="6-1", desc=" more complex motion"},
+    { points = 2, page = "6", box="6-1", desc=" multiple types of aircraft"},
+    { points = 2, page = "6", box="6-1", desc=" other cool features (students came up with some great things in 2D!)"},
+    ## Graphics Park
+    { points = 5,  page = 8, box="8-1", desc="fancier looking carousel"},
+    { points = 5,  page = 8, box="8-1", desc="more theme park rides"},
+    ## construction
+    { points = 3,  page = 9, box="9-1", desc="nice shapes"},
+    { points = 1,  page = 9, box="9-1", desc="good use of colors/materials"},
+    { points = 3,  page = 9, box="9-1", desc="other coolness"}
+]
+maxbonus=20
 
 ######################################################################
 [[workbook]] # Workbook 9
