@@ -9,18 +9,23 @@
 
 # question... is it better to have things as arrays (for easy looping) 
 # or tables (for access by name)
-# for some things, I am picking tables - make the keys be ordered so they list nicely (we )
+# I've gone back and forth - and decided to try arrays (since they are easier)
+# I think most of the easy access can be achieved by filtering (e.g. show)
+# everything for a box
 
 # each workbook should have...
 #   number (this should be index+1 - but its the actual number)
 #   name (text string - without "Workbook X")
 #   due (date of the Monday that the assignment is due)
 #   learninggoals (array of strings)
-#   points (table of rubric items - for NON-BONUS points)
-#       note: this is a table so it can be referred to easily by item
-#           make sure that the keys are named so they come out in the
-#           right order while alphabetized
-#   bonus (table of bonus points)
+#   points (array of rubric items - for NON-BONUS points)
+#   bonus (array of rubric items - for bonus points)
+
+# for rubric items we need...
+#   number of points
+#   page
+#   box
+#   desc (description)
 
 # there is a ton of other information that might be useful, however
 # it's not clear how much we can make use of information in these things
@@ -31,7 +36,7 @@
 [[workbook]] # Workbook 1
 number = 1
 name = "Introduction (Pre-Graphics)"
-due = "01-Feb-2021"
+due = 2021-02-08
 learninggoals = [
     "Understand and use the class mechanics (GitHub classroom links, Git, local servers, editing pages, ...)",
     "Understand the organization of workbooks for the class (looking at pages, boxes, editing and adding things, turning things in)",
@@ -41,16 +46,19 @@ learninggoals = [
     "Differentiate and use event-driven- and animation-loop-driven- programming",
     "Practice writing JavaScript and check your tool setup"
 ]
-[workbook.points]
-    rb1 = { points=50, box="NB", desc="correctly turning something in (committing changes and pushing it back to GitHub)"}
-    rb2 = { points=5,  box="NB", desc="correct README (**not this year**)"}
-    rb3 = { points=10, box="6-1", desc="see page (should be explained)"}
+points = [
+    { points=50, box="none", page="none", desc="correctly turning something in (committing changes and pushing it back to GitHub)"},
+    { points=5,  box="none", page="none", desc="correct README (**not this year**)"},
+    { points=10, box="6-1", page=6, desc="see page (should be explained)"},
+    { }
+]
+# note: if there are no bonus points, it should be OK to skip it
 
 ######################################################################
 [[workbook]] # Workbook 2
 number = 2
 name = "Graphics APIs and Drawing Basics"
-due = "08-Feb-2021"
+due = 2021-02-15
 learninggoals = [
     "To introduce the idea of object-based graphics as opposed to image-based graphics",
     "To show the two different types of graphics APIs, immediate mode and retained mode",
@@ -69,17 +77,63 @@ bonus = [
 ]
 
 
-##############################################################
-## Examples for testing
-[tests]     # should be outside of workbooks
-array = ["one","two","three","four"]
-dict = {a=1,b=2,c=3,d=4}
-[tests.table]
-z="one"
-y="two"
-x="three"
-[tests.mix]
-a=5
-z=4
-b=7
-d=2
+######################################################################
+[[workbook]] # Workbook 3
+number = 3
+due = 2021-02-22
+name = "Transformations"
+
+######################################################################
+[[workbook]] # Workbook 4
+number = 4
+due = 2021-03-01
+name = "Transformation Math"
+
+######################################################################
+[[workbook]] # Workbook 5
+number = 5
+due = 2021-03-08
+name = "Curves in 2D"
+
+######################################################################
+[[workbook]] # Workbook 6
+number = 6
+due = 2021-03-15
+name = "The Train (More Curves)"
+
+######################################################################
+[[workbook]] # Workbook 7
+number = 7
+due = 2021-03-22
+name = "3D and Three"
+
+######################################################################
+[[workbook]] # Workbook 8
+number = 8
+name = "Transformation and Hierarchy in Three.js"
+due = 2021-03-29
+
+######################################################################
+[[workbook]] # Workbook 9
+number = 9
+due = 2021-04-05
+name = "Meshes and Textures"
+
+######################################################################
+[[workbook]] # Workbook 10
+number = 10
+due = 2021-04-12
+name = "Fancier Textures and Lighting"
+
+######################################################################
+[[workbook]] # Workbook 11
+number = 11
+due = 2021-04-19
+name = "Shaders"
+
+######################################################################
+[[workbook]] # Workbook 12
+number = 12
+due = 2021-04-30
+name = "Graphics Town"
+
