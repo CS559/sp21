@@ -1,11 +1,31 @@
 # new for 2021
-
 assistance-form:
   name: "Sign Up for Assistance"
   url: https://forms.gle/ggxTxPRvoMxzfxP78
 regrade-form:
   name: "Regrading Form"
   url: https://forms.gle/ggxTxPRvoMxzfxP78
+scheduling-form:
+  name: "1-on-1 Appointment Scheduling Form"
+  url: https://forms.gle/r3dNjaj5jExad2SJ6
+
+# university resources for policies
+uw-academic-conduct:
+  url: https://conduct.students.wisc.edu/misconduct/academic-integrity/
+  name: "UW Definition of Academic Misconduct"
+comm-arts-academic-conduct:
+  url: https://commarts.wisc.edu/graduate/graduate-handbook/professional-conduct-and-academic-integrity/
+  name: "Professional Conduct and Academic Integrity (Department of Communication Arts)"
+uw-academic-conduct-syllabus-statement:
+  url: https://conduct.students.wisc.edu/syllabus-statement/
+  name: "UW Recommended Syllabus Statement"
+
+uw-tech-requirements:
+  url: https://it.wisc.edu/learn/guides/learning-online-technology-tips-tools/
+  name: "UW Technology Requirements for Students"
+uw-internet-doctor:
+  url: https://it.wisc.edu/news/home-internet-connection-doctor-service/
+  name: "UW Internet Connection Doctor"
 
 # general stuff
 hugo:
