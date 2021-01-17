@@ -40,6 +40,10 @@ ellas-deli:
 trip-savvy:
   name: "Trip Savvy"
   url: https://www.tripsavvy.com/types-of-theme-park-attractions-4110823
+# external resources
+camscanner:
+  url: https://www.camscanner.com/
+  name: CamScanner
 
 # Shading documentation (things that might get updated)
 gles-ref-card:
