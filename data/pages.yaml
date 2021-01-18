@@ -14,6 +14,9 @@ piazza:
 bbcu:
   name: "BBCollaborate Ultra (BBCU)"
   url: https://canvas.wisc.edu/courses/241843/external_tools/3041
+canvas:
+  name: "Canvas"
+  url: https://canvas.wisc.edu/courses/241843
 
 # university resources for policies
 uw-academic-conduct:
