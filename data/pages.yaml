@@ -8,6 +8,12 @@ regrade-form:
 scheduling-form:
   name: "1-on-1 Appointment Scheduling Form"
   url: https://forms.gle/r3dNjaj5jExad2SJ6
+piazza:
+  name: "Piazza"
+  url: https://canvas.wisc.edu/courses/241843/external_tools/65
+bbcu:
+  name: "BBCollaborate Ultra (BBCU)"
+  url: https://canvas.wisc.edu/courses/241843/external_tools/3041
 
 # university resources for policies
 uw-academic-conduct:
