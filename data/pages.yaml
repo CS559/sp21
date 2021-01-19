@@ -17,6 +17,9 @@ bbcu:
 canvas:
   name: "Canvas"
   url: https://canvas.wisc.edu/courses/241843
+canvas-schedule:
+  name: "Canvas Schedule"
+  url: https://canvas.wisc.edu/courses/241843/external_tools/5326
 
 # university resources for policies
 uw-academic-conduct:
