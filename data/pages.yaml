@@ -87,37 +87,47 @@ glsl-book:
   url: https://amzn.to/2x9wtyF
   name: "The OpenGL Shading Language (3e)"
 
-# Course Web
+# Course Web (Spring 2021)
 course-web:
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2021/
   name: "Course Web"
+  checked: 1/20/21
 workbooks:
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/pages/workbooks/
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2021/pages/workbooks/
   name: Workbooks
+  checked: 1/20/21
 getting-started:
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/pages/getting-started/
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2021/pages/getting-started/
   name: "Getting Started"
+  checked: 1/20/21
 tools:
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/pages/tools/
-  name: "Tools"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2021/pages/559tools/
+  name: "Tools for 559"
+  checked: 1/20/21
 git:
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/pages/git/
-  name: "GIT"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2021/pages/git559/
+  name: "Git and GitHub in CS559"
+  checked: 1/20/21
 javascript:
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/pages/javascript/
-  name: "CS559 JavaScript page"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2021/pages/javascript559/
+  name: "Javascript in CS559"
+  checked: 1/20/21
 vscode:
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/pages/vscode/
-  name: "Visual Studio Code for CS559"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2021/pages/vscode559/
+  name: "Visual Studio Code (VSCode) for CS559"
+  checked: 1/20/21
 typed-js:
-  name: "Typed Java Script and CS559"
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/pages/typed-js/
+  name: "Typed JavaScript and CS559"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2021/pages/typed-js/
+  checked: 1/20/21
 books:
   name: "Books Page"
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/pages/books/
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2021/pages/books/
+  checked: 1/20/21
 traditional-oop-js:
-  name: "Traditional Object Oriented Program in JavaScript Tutorial"
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/pages/oop-in-js/
+  name: "Traditional Object Oriented Programming in JavaScript"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2021/tutorials/oop-in-js-1/
+  checked: 1/20/21
 
 explore-js:
   name: "Exploring JS Ch15"
