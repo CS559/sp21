@@ -367,3 +367,79 @@ DeCastlejau_3:
 DeCastlejau_4:
   url: https://mediaspace.wisc.edu/media/1_b45evtd7
   name: "DeCastlejau 4"
+
+# Spring 2021 links for Canvas workbook quizzes
+sp21-workbook-quiz-01:
+  url: https://canvas.wisc.edu/courses/241843/assignments/1095650
+  name: "Workbook 01: Pre-Graphics"
+sp21-workbook-quiz-01-bonus:
+  url: https://canvas.wisc.edu/courses/241843/assignments/1095652
+  name: "Workbook 01: Pre Graphics (Bonus Points)"
+sp21-workbook-quiz-02:
+  url: https://canvas.wisc.edu/courses/241843/assignments/1096739
+  name: "Workbook 02: Graphics APIs and Drawing Basics"
+sp21-workbook-quiz-02-bonus:
+  url: https://canvas.wisc.edu/courses/241843/assignments/1096741
+  name: "Workbook 02: Graphics APIs and Drawing Basics (Bonus Points)"
+sp21-workbook-quiz-03:
+  url: https://canvas.wisc.edu/courses/241843/assignments/1096745
+  name: "Workbook 03: Transformations"
+sp21-workbook-quiz-03-bonus:
+  url: https://canvas.wisc.edu/courses/241843/assignments/1096828
+  name: "Workbook 03: Transformations (Bonus Points)"
+sp21-workbook-quiz-04:
+  url: https://canvas.wisc.edu/courses/241843/assignments/1096782
+  name: "Workbook 04: Transformation Math"
+sp21-workbook-quiz-04-bonus:
+  url: https://canvas.wisc.edu/courses/241843/assignments/1096829
+  name: "Workbook 04: Transformation Math (Bonus Points)"
+sp21-workbook-quiz-05:
+  url: https://canvas.wisc.edu/courses/241843/assignments/1096778
+  name: "Workbook 05: Curves in 2D"
+sp21-workbook-quiz-05-bonus:
+  url: https://canvas.wisc.edu/courses/241843/assignments/1096830
+  name: "Workbook 05: Curves in 2D (Bonus Points)"
+sp21-workbook-quiz-06:
+  url: https://canvas.wisc.edu/courses/241843/assignments/1096824
+  name: "Workbook 06: More Curves"
+sp21-workbook-quiz-06-bonus:
+  url: https://canvas.wisc.edu/courses/241843/assignments/1096831
+  name: "Workbook 06: More Curves (Bonus Points)"
+sp21-workbook-quiz-07:
+  url: https://canvas.wisc.edu/courses/241843/assignments/1096791
+  name: "Workbook 07: 3D and Three"
+sp21-workbook-quiz-07-bonus:
+  url: https://canvas.wisc.edu/courses/241843/assignments/1096832
+  name: "Workbook 07: 3D and Three (Bonus Points)"
+sp21-workbook-quiz-08:
+  url: https://canvas.wisc.edu/courses/241843/assignments/1096793
+  name: "Workbook 08: Transformation and Hierarchy in Three.js"
+sp21-workbook-quiz-08-bonus:
+  url: https://canvas.wisc.edu/courses/241843/assignments/1096834
+  name: "Workbook 08: Transformation and Hierarchy in Three.js (Bonus Points)"
+sp21-workbook-quiz-09:
+  url: https://canvas.wisc.edu/courses/241843/assignments/1096795
+  name: "Workbook 09: Meshes and Textures"
+sp21-workbook-quiz-09-bonus:
+  url: https://canvas.wisc.edu/courses/241843/assignments/1096835
+  name: "Workbook 09: Meshes and Textures (Bonus Points)"
+sp21-workbook-quiz-10:
+  url: https://canvas.wisc.edu/courses/241843/assignments/1096796
+  name: "Workbook 10: Fancier Textures and Lighting"
+sp21-workbook-quiz-10-bonus:
+  url: https://canvas.wisc.edu/courses/241843/assignments/1096836
+  name: "Workbook 10: Fancier Textures and Lighting (Bonus Points)"
+sp21-workbook-quiz-11:
+  url: https://canvas.wisc.edu/courses/241843/assignments/1096797
+  name: "Workbook 11: Shaders"
+sp21-workbook-quiz-11-bonus:
+  url: https://canvas.wisc.edu/courses/241843/assignments/1096840
+  name: "Workbook 11: Shaders (Bonus Points)"
+sp21-workbook-quiz-12:
+  url: https://canvas.wisc.edu/courses/241843/assignments/1096798
+  name: "Workbook 12: Graphics Town"
+sp21-workbook-quiz-12-bonus:
+  url: https://canvas.wisc.edu/courses/241843/assignments/1096841
+  name: "Workbook 12: Graphics Town (Bonus Points)"
+
+
