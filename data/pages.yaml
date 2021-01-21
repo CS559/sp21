@@ -153,6 +153,15 @@ request-animation-frame:
 mozilla-css:
   name: "Mozilla Tutorial on CSS"
   url: https://developer.mozilla.org/en-US/docs/Learn/CSS
+mozilla-script-tag:
+  name: "Office Script Tag Documentation"
+  url: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script
+w3schools-defer:
+  name: "W3 Schools documentation on defer"
+  url: https://www.w3schools.com/tags/att_script_defer.asp
+template-literals:
+  name: "Template Literals Documentation"
+  url: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
 
 mozilla-canvas:
   name: "Mozilla (Official) Canvas Tutorial (top level)"
