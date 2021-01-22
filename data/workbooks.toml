@@ -78,23 +78,23 @@ learninggoals = [
 ]
 points = [
     { points = 35, page = "none", box= "none", desc = "correctly turning in an assignment with a proper readme"},
-    { points = 20, page = 3, box = "3-1", desc = "making each shape"},
-    { points = 5, page = 3, box = "3-2", desc = "making a picture"},
-    { points = 5, page = 3, box = "3-2", desc = "shapes that aren't rectangles"},
-    { points = 5, page = 3, box = "3-2", desc = "transparency (must be obvious from looking at the picture)"},
-    { points = 2, page = 3, box = "3-2", desc = "making a cool picture (grader's discretion)"},
-    { points = 5, page = 5, box = "5-1", desc = "making circles appear when the mouse is clicked"},
-    { points = 4, page = 5, box = "5-1", desc = "having the circles change color when the mouse is over them"},
-    { points = 4, page = 5, box = "5-1", desc = "having the circle change their color back when the mouse leaves them"},
-    { points = 2, page = 5, box = "5-1", desc = "having the circle change color when clicked (bonus points), with the hover behavior still working"},
-    { points = 2, page = 5, box = "5-2", desc = "user clicks mouse, object shoots from the bottom to that position"},
-    { points = 2, page = 5, box = "5-2", desc = "object explodes into small pieces when it gets to position"},
-    { points = 2, page = 5, box = "5-2", desc = "explosions fade out (or disappear) after a distance"},
-    { points = 2, page = 5, box = "5-2", desc = "multiple fireworks at once (if user clicks quickly)"},
-    { points = 1, page = 5, box = "5-2", desc = "random fireworks in addition to user clicks"},
-    { points = 1, page = 5, box = "5-2", desc = "fireworks start from random locations at bottom"},
-    { points = 2, page = 5, box = "5-2", desc = "projectile motion"},
-    { points = 1, page = 5, box = "5-2", desc = "something else creative"}
+    { points = 20, page = 3, box = "02-03-01", desc = "making each shape"},
+    { points = 5, page = 3, box = "02-03-02", desc = "making a picture"},
+    { points = 5, page = 3, box = "02-03-02", desc = "shapes that aren't rectangles"},
+    { points = 5, page = 3, box = "02-03-02", desc = "transparency (must be obvious from looking at the picture)"},
+    { points = 2, page = 3, box = "02-03-02", desc = "making a cool picture (grader's discretion)"},
+    { points = 5, page = 5, box = "02-05-01", desc = "making circles appear when the mouse is clicked"},
+    { points = 4, page = 5, box = "02-05-01", desc = "having the circles change color when the mouse is over them"},
+    { points = 4, page = 5, box = "02-05-01", desc = "having the circle change their color back when the mouse leaves them"},
+    { points = 2, page = 5, box = "02-05-01", desc = "having the circle change color when clicked (bonus points), with the hover behavior still working"},
+    { points = 2, page = 5, box = "02-05-02", desc = "user clicks mouse, object shoots from the bottom to that position"},
+    { points = 2, page = 5, box = "02-05-02", desc = "object explodes into small pieces when it gets to position"},
+    { points = 2, page = 5, box = "02-05-02", desc = "explosions fade out (or disappear) after a distance"},
+    { points = 2, page = 5, box = "02-05-02", desc = "multiple fireworks at once (if user clicks quickly)"},
+    { points = 1, page = 5, box = "02-05-02", desc = "random fireworks in addition to user clicks"},
+    { points = 1, page = 5, box = "02-05-02", desc = "fireworks start from random locations at bottom"},
+    { points = 2, page = 5, box = "02-05-02", desc = "projectile motion"},
+    { points = 1, page = 5, box = "02-05-02", desc = "something else creative"}
 ]
 bonus = [
 ]
@@ -108,15 +108,13 @@ learninggoals = [
 ]
 points = [
     { points = 20, page = "none", box= "none", desc = "correctly turning in a file with a README"},
-    { points = 10, page = 1, box = "1-6", desc = "restore the triangle to original position when the “Jump Right” button is released"},
-    { points = 10, page = 3, box = "3-3", desc = "add appropriate transformations to make both images look the same"},
-    { points = 10, page = 3, box = "3-5", desc = "define the canvas coordinate systems as specified"},
-    { points = 20, page = 6, box = "6-1", desc = "make a quadcopter with four attached propellers that moves as specified"},
-    { points = 15, page = 7, box = "7-1", desc = "make an SVG picture using hierarchical modelling"}
-]
-bonus = [
-    { points = 8, page = 6, box = "6-1", desc = "additional quadcopter features"},
-    { points = 3, page = 7, box = "7-1", desc = "for a particularly creative solutions or a solution that uses additional SVG features"}
+    { points = 10, page = 1, box = "03-01-06", desc = "restore the triangle to original position when the “Jump Right” button is released"},
+    { points = 10, page = 3, box = "03-03-03", desc = "add appropriate transformations to make both images look the same"},
+    { points = 10, page = 3, box = "03-03-05", desc = "define the canvas coordinate systems as specified"},
+    { points = 20, page = 6, box = "03-06-01", desc = "make a quadcopter with four attached propellers that moves as specified"},
+    { points = 15, page = 7, box = "03-07-01", desc = "make an SVG picture using hierarchical modelling"},
+    { points = 8, page = 6, box = "03-06-01", desc = "additional quadcopter features"},
+    { points = 3, page = 7, box = "03-07-01", desc = "for a particularly creative solutions or a solution that uses additional SVG features"}
 ]
 
 ######################################################################
@@ -128,12 +126,12 @@ learninggoals = [
 ]
 points = [
     { points = 25, page = "none", box= "none", desc = "Baseline for turning in anything - with a correct README"},
-    { points = 5, page = 4, box = "4-1", desc = "upper left corner is a red dot and upper right a green dot. Points should be draggable together with the square. The graders will check that you did this with translate, rotate, scale."},
-    { points = 5, page = 4, box = "4-2", desc = "upper left corner is a red dot and upper right a green dot. Points should be draggable together with the square. The graders will check that you did this with transform."},
-    { points = 5, page = 4, box = "4-3", desc = "the green dot should be in the corner opposite to upper left corner of the square. Points should be draggable. Square must remain a square."},
-    { points = 5, page = 4, box = "4-4", desc = "replace all rotate, translate, and scale commands into a single transform command that does the same thing"},
-    { points = 5, page = 4, box = "4-5", desc = "implement shear-x to draw sheared squares"},
-    { points = 30, page = 5, box = "5-1", desc = "Boids covering all the listed requirements"}
+    { points = 5, page = 4, box = "04-04-01", desc = "upper left corner is a red dot and upper right a green dot. Points should be draggable together with the square. The graders will check that you did this with translate, rotate, scale."},
+    { points = 5, page = 4, box = "04-04-02", desc = "upper left corner is a red dot and upper right a green dot. Points should be draggable together with the square. The graders will check that you did this with transform."},
+    { points = 5, page = 4, box = "04-04-03", desc = "the green dot should be in the corner opposite to upper left corner of the square. Points should be draggable. Square must remain a square."},
+    { points = 5, page = 4, box = "04-04-04", desc = "replace all rotate, translate, and scale commands into a single transform command that does the same thing"},
+    { points = 5, page = 4, box = "04-04-05", desc = "implement shear-x to draw sheared squares"},
+    { points = 30, page = 5, box = "04-05-01", desc = "Boids covering all the listed requirements"}
 ]
 bonus = [
 ]
@@ -147,11 +145,11 @@ learninggoals = [
 ]
 points = [
     { points = 5, page = "none", box= "none", desc = "Have a correct readme.md file"},
-    { points = 5, page = 1, box = "1-2", desc = "implement the correct tangent vector for the parabola"},
-    { points = 10, page = 4, box = "4-3", desc = "make the green dot go around the triangle with arc-length parameterization"},
-    { points = 10, page = 7, box = "7-1", desc = "draw the spiral and control the drawing"},
-    { points = 20, page = 7, box = "7-2", desc = "draw a picture that demonstrate the use of bezierCurveTo in Canvas"},
-    { points = 10, page = 8, box = "8-1", desc = "use the UI code"}
+    { points = 5, page = 1, box = "05-01-02", desc = "implement the correct tangent vector for the parabola"},
+    { points = 10, page = 4, box = "05-04-03", desc = "make the green dot go around the triangle with arc-length parameterization"},
+    { points = 10, page = 7, box = "05-07-01", desc = "draw the spiral and control the drawing"},
+    { points = 20, page = 7, box = "05-07-02", desc = "draw a picture that demonstrate the use of bezierCurveTo in Canvas"},
+    { points = 10, page = 8, box = "05-08-01", desc = "use the UI code"}
 ]
 bonus = [
 ]
@@ -164,28 +162,28 @@ name = "The Train (More Curves)"
 learninggoals = [
 ]
 points = [
-    { points = 10, page = 1, box = "1-1", desc = "make a polygon that appears different depending on the fill rule"},
-    { points = 15, page = 2, box = "2-1", desc = "drawing the track as a simple curve that interpolates the control points"},
-    { points = 15, page = 2, box = "2-1", desc = "train goes around the track"},
-    { points = 10, page = 2, box = "2-1", desc = "the interface still works (the track can be moved and the run slider works, even while the train is in motion)"},
-    { points = 5, page = 2, box = "2-1", desc = "train has a front"},
-    { points = 10, page = 2, box = "2-1", desc = "train points in the right direction as it goes around the track"},
-    { points = 5, page = 2, box = "2-1", desc = "track configuration shows off arc length (train should speed up and slow down if arc length parameterization is turned off)"},
-    { points = 10, page = 2, box = "2-1", desc = "your README.md explains which features you did and did not implement, and which ones you think work correctly."}
+    { points = 10, page = 1, box = "06-01-01", desc = "make a polygon that appears different depending on the fill rule"},
+    { points = 15, page = 2, box = "06-02-01", desc = "drawing the track as a simple curve that interpolates the control points"},
+    { points = 15, page = 2, box = "06-02-01", desc = "train goes around the track"},
+    { points = 10, page = 2, box = "06-02-01", desc = "the interface still works (the track can be moved and the run slider works, even while the train is in motion)"},
+    { points = 5, page = 2, box = "06-02-01", desc = "train has a front"},
+    { points = 10, page = 2, box = "06-02-01", desc = "train points in the right direction as it goes around the track"},
+    { points = 5, page = 2, box = "06-02-01", desc = "track configuration shows off arc length (train should speed up and slow down if arc length parameterization is turned off)"},
+    { points = 10, page = 2, box = "06-02-01", desc = "your README.md explains which features you did and did not implement, and which ones you think work correctly."}
 ]
 bonus = [
-    { points = 5, page = 2, box = "2-1", desc = "Arc Length parameterization (train goes at a relatively constant speed as it goes around the track, no matter what the control point spacing is). You must add a checkbox to turn this on and off. This one is hard, but it enables several of the other things, so it is actually worth a lot"},
-    { points = 5, page = 2, box = "2-1", desc = "Rail Ties (1 pt for ties drawn perpendicular to the track, 4 pts for being drawn evenly spaced with arc-length parameterization and in the right directions)"},
-    { points = 3, page = 2, box = "2-1", desc = "Parallel rails"},
-    { points = 5, page = 2, box = "2-1", desc = "Multiple cars (requires keeping the cars a fixed distance apart)"},
-    { points = 3, page = 2, box = "2-1", desc = "Trucked wheels (requires keeping the pairs of wheels the correct distance apart and on the track, and having the train car positioned appropriately - this is only for people who are into trains and appreciate this detail)"},
-    { points = 1, page = 2, box = "2-1", desc = "slider to control tension"},
-    { points = 2, page = 2, box = "2-1", desc = "switchable B-Splines"},
-    { points = 2, page = 2, box = "2-1", desc = "Smoke"},
-    { points = 1, page = 2, box = "2-1", desc = "nice looking train"},
-    { points = 1, page = 2, box = "2-1", desc = "nice looking track"},
-    { points = 1, page = 2, box = "2-1", desc = "nice looking scenery"},
-    { points = 1, page = 2, box = "2-1", desc = "scenery adapts to the track"}
+    { points = 5, page = 2, box = "06-02-01", desc = "Arc Length parameterization (train goes at a relatively constant speed as it goes around the track, no matter what the control point spacing is). You must add a checkbox to turn this on and off. This one is hard, but it enables several of the other things, so it is actually worth a lot"},
+    { points = 5, page = 2, box = "06-02-01", desc = "Rail Ties (1 pt for ties drawn perpendicular to the track, 4 pts for being drawn evenly spaced with arc-length parameterization and in the right directions)"},
+    { points = 3, page = 2, box = "06-02-01", desc = "Parallel rails"},
+    { points = 5, page = 2, box = "06-02-01", desc = "Multiple cars (requires keeping the cars a fixed distance apart)"},
+    { points = 3, page = 2, box = "06-02-01", desc = "Trucked wheels (requires keeping the pairs of wheels the correct distance apart and on the track, and having the train car positioned appropriately - this is only for people who are into trains and appreciate this detail)"},
+    { points = 1, page = 2, box = "06-02-01", desc = "slider to control tension"},
+    { points = 2, page = 2, box = "06-02-01", desc = "switchable B-Splines"},
+    { points = 2, page = 2, box = "06-02-01", desc = "Smoke"},
+    { points = 1, page = 2, box = "06-02-01", desc = "nice looking train"},
+    { points = 1, page = 2, box = "06-02-01", desc = "nice looking track"},
+    { points = 1, page = 2, box = "06-02-01", desc = "nice looking scenery"},
+    { points = 1, page = 2, box = "06-02-01", desc = "scenery adapts to the track"}
 ]
 
 ######################################################################
@@ -198,11 +196,11 @@ learninggoals = [
     "Get you to make some basics 3D pictures and animations using THREE.js and the basic pieces"
 ]
 points = [
-    { points = 10, page = 4, box = "4-3", desc = "stacking the boxes as described"},
-    { points = 10, page = 5, box = "5-3", desc = "add lights to scene so that sides of the cubes appear in different colors"},
-    { points = 10, page = 6, box = "6-1", desc = "give each sphere a different, non-white material"},
-    { points = 38, page = 8, box = "8-1", desc = "build a snowman as described"},
-    { points = 22, page = 9, box = "9-1", desc = "create the space-age museum as described"}
+    { points = 10, page = 4, box = "07-04-03", desc = "stacking the boxes as described"},
+    { points = 10, page = 5, box = "07-05-03", desc = "add lights to scene so that sides of the cubes appear in different colors"},
+    { points = 10, page = 6, box = "07-06-01", desc = "give each sphere a different, non-white material"},
+    { points = 38, page = 8, box = "07-08-01", desc = "build a snowman as described"},
+    { points = 22, page = 9, box = "07-09-01", desc = "create the space-age museum as described"}
 ]
 bonus = [
 ]
@@ -226,47 +224,47 @@ points = [
     { points =  5, page = "none", box="none", desc="correct readme (that explains what you’ve done)"},
     { points =  5, page = "none", box="none", desc="experimenting with the demos on pages 2 and 3. We’ll just trust that you’ve done it if you turn any other part in."},
     ## Quadcopter
-    { points = 3, page = 6, box="6-1", desc="Some aircraft that isn’t a donut"},
-    { points = 4, page = 6, box="6-1", desc="A propeller that spins (not the body)"},
-    { points = 3,  page = 6, box="6-1", desc="More than one propeller spinning"},
-    { points = 3,  page = 6, box="6-1", desc="(at least) One aircraft that flies in a circle (or curved path)"},
-    { points = 3,  page = 6, box="6-1", desc="aircraft point forward (and turn in the direction of motion)"},
-    { points = 2,  page = 6, box="6-1", desc="Radar dish (or some object)"},
-    { points = 4,  page = 6, box="6-1", desc="Correctly points at aircraft (tracks as aircraft moves)"},
-    { points = 2,  page = 6, box="6-1", desc="multiple aircraft"},
+    { points = 3, page = 6, box="08-06-01", desc="Some aircraft that isn’t a donut"},
+    { points = 4, page = 6, box="08-06-01", desc="A propeller that spins (not the body)"},
+    { points = 3,  page = 6, box="08-06-01", desc="More than one propeller spinning"},
+    { points = 3,  page = 6, box="08-06-01", desc="(at least) One aircraft that flies in a circle (or curved path)"},
+    { points = 3,  page = 6, 08--1", desc="aircraft point forward (and turn in the direction of motion)"},
+    { points = 2,  page = 6, box="08-06-01", desc="Radar dish (or some object)"},
+    { points = 4,  page = 6, box="08-06-01", desc="Correctly points at aircraft (tracks as aircraft moves)"},
+    { points = 2,  page = 6, box="08-06-01", desc="multiple aircraft"},
     ## Graphics Park
-    { points = 2,  page = 8, box="8-1", desc="take out bouncing cube"},
-    { points = 3,  page = 8, box="8-1", desc="place at least 1 more swing"},
-    { points = 2,  page = 8, box="8-1", desc="place carousel"},
-    { points = 6,  page = 8, box="8-1", desc="carousel has poles and horses"},
-    { points = 7,  page = 8, box="8-1", desc="carousel has correct motion (spins, horses go up and down)"},
-    { points = 5,  page = 8, box="8-1", desc="fancier looking carousel"},
-    { points = 5,  page = 8, box="8-1", desc="more theme park rides"},
+    { points = 2,  page = 8, box="08-08-01", desc="take out bouncing cube"},
+    { points = 3,  page = 8, box="08-08-01", desc="place at least 1 more swing"},
+    { points = 2,  page = 8, box="08-08-01", desc="place carousel"},
+    { points = 6,  page = 8, box="08-08-01", desc="carousel has poles and horses"},
+    { points = 7,  page = 8, box="08-08-01", desc="carousel has correct motion (spins, horses go up and down)"},
+    { points = 5,  page = 8, box="08-08-01", desc="fancier looking carousel"},
+    { points = 5,  page = 8, box="08-08-01", desc="more theme park rides"},
     ## construction
-    { points = 5,  page = 9, box="8-1", desc="equipment 1 is identifiable (can tell what it is)"},
-    { points = 5,  page = 9, box="9-1", desc="equipment 2 is identifiable"},
-    { points = 5,  page = 9, box="9-1", desc="more then 2 dof between 1&2"},
-    { points = 5,  page = 9, box="9-1", desc="UI works for 1&2"},
-    { points = 5,  page = 9, box="9-1", desc="articulated things work correctly"},
-    { points = 5,  page = 9, box="9-1", desc="extra articulated machine (different type)"},
-    { points = 3,  page = 9, box="9-1", desc="some objects have 4+ d.o.f. (beyond position/orientation)"},
-    { points = 3,  page = 9, box="9-1", desc="nice shapes"},
-    { points = 1,  page = 9, box="9-1", desc="good use of colors/materials"},
-    { points = 3,  page = 9, box="9-1", desc="other coolness"}
+    { points = 5,  page = 9, box="08-08-01", desc="equipment 1 is identifiable (can tell what it is)"},
+    { points = 5,  page = 9, box="08-09-01", desc="equipment 2 is identifiable"},
+    { points = 5,  page = 9, box="08-09-01", desc="more then 2 dof between 1&2"},
+    { points = 5,  page = 9, box="08-09-01", desc="UI works for 1&2"},
+    { points = 5,  page = 9, box="08-09-01", desc="articulated things work correctly"},
+    { points = 5,  page = 9, box="08-09-01", desc="extra articulated machine (different type)"},
+    { points = 3,  page = 9, box="08-09-01", desc="some objects have 4+ d.o.f. (beyond position/orientation)"},
+    { points = 3,  page = 9, box="08-09-01", desc="nice shapes"},
+    { points = 1,  page = 9, box="08-09-01", desc="good use of colors/materials"},
+    { points = 3,  page = 9, box="08-09-01", desc="other coolness"}
 ]
 bonus = [
     ## Quadcopter
-    { points = 2, page = "6", box="6-1", desc=" cool aircraft"},
-    { points = 2, page = "6", box="6-1", desc=" more complex motion"},
-    { points = 2, page = "6", box="6-1", desc=" multiple types of aircraft"},
-    { points = 2, page = "6", box="6-1", desc=" other cool features (students came up with some great things in 2D!)"},
+    { points = 2, page = "6", box="08-06-01", desc=" cool aircraft"},
+    { points = 2, page = "6", box="08-06-01", desc=" more complex motion"},
+    { points = 2, page = "6", box="08-06-01", desc=" multiple types of aircraft"},
+    { points = 2, page = "6", box="08-06-01", desc=" other cool features (students came up with some great things in 2D!)"},
     ## Graphics Park
-    { points = 5,  page = 8, box="8-1", desc="fancier looking carousel"},
-    { points = 5,  page = 8, box="8-1", desc="more theme park rides"},
+    { points = 5,  page = 8, box="08-08-01", desc="fancier looking carousel"},
+    { points = 5,  page = 8, box="08-08-01", desc="more theme park rides"},
     ## construction
-    { points = 3,  page = 9, box="9-1", desc="nice shapes"},
-    { points = 1,  page = 9, box="9-1", desc="good use of colors/materials"},
-    { points = 3,  page = 9, box="9-1", desc="other coolness"}
+    { points = 3,  page = 9, box="08-09-01", desc="nice shapes"},
+    { points = 1,  page = 9, box="08-09-01", desc="good use of colors/materials"},
+    { points = 3,  page = 9, box="08-09-01", desc="other coolness"}
 ]
 maxbonus=20
 
@@ -283,36 +281,36 @@ learninggoals = [
     "To gain some experience using shape and texture to create interesting 3D models."
 ]
 points = [
-    { points = 2, page = 2, box = "2-1", desc = "Object 1 has (at least) 3 triangles"},
-    { points = 3, page = 2, box = "2-1", desc = "Object 1 has face colors"},
-    { points = 1, page = 2, box = "2-1", desc = "Object 2 has (at least) 3 triangles"},
-    { points = 3, page = 2, box = "2-1", desc = "Object 2 had vertex colors where we can see blending"},
-    { points = 1, page = 2, box = "2-1", desc = "Object 3 has (at least) 3 triangles"},
-    { points = 3, page = 2, box = "2-1", desc = "Object 3 has normals that make things look smooth"},
-    { points = 2, page = 2, box = "2-1", desc = "Code Check: objects build “manually”"},
-    { points = 4, page = 5, box = "5-1", desc = "There are 2 dice"},
-    { points = 4, page = 5, box = "5-1", desc = "Dice have numbers on their sides"},
-    { points = 5, page = 5, box = "5-1", desc = "Dice have correct numbers on their sides"},
-    { points = 2, page = 5, box = "5-1", desc = "The two dice show different numbers on top"},
-    { points = 2, page = 5, box = "5-1", desc = "Rounded edges"},
-    { points = 5, page = 5, box = "5-2", desc = "At least one domino"},
-    { points = 10, page = 5, box = "5-2", desc = "The domino is a double 6 (correct texture)"},
-    { points = 2, page = 5, box = "5-2", desc = "More dominos (with different numbers)"},
-    { points = 2, page = 5, box = "5-2", desc = "Legal domino arrangement (at least 4 dominos)"},
-    { points = 2, page = 5, box = "5-2", desc = "Rounded edges"},
-    { points = 5, page = 6, box = "6-1", desc = "Building Type 1"},
-    { points = 5, page = 6, box = "6-1", desc = "Has texture"},
-    { points = 2, page = 6, box = "6-1", desc = "fancy/complex texture and/or shape (building 1)"},
-    { points = 5, page = 6, box = "6-1", desc = "Building Type 2"},
-    { points = 5, page = 6, box = "6-1", desc = "Has texture"},
-    { points = 5, page = 6, box = "6-1", desc = "Has different roof type than 1"},
-    { points = 2, page = 6, box = "6-1", desc = "fancy/complex texture and/or shape (building 2)"},
-    { points = 1, page = 6, box = "6-1", desc = "Building Type 3"},
-    { points = 2, page = 6, box = "6-1", desc = "different roof type than others"},
-    { points = 10, page = 7, box = "7-1", desc = "Car or Vehicle (looks like a car or other vehicle)"},
-    { points = 5, page = 7, box = "7-1", desc = "Has texture (or at least coloring)"},
-    { points = 2, page = 7, box = "7-1", desc = "fancy vehicle"},
-    { points = 2, page = 7, box = "7-1", desc = "more than 1 vehicle type"}
+    { points = 2, page = 2, box = "09-02-01", desc = "Object 1 has (at least) 3 triangles"},
+    { points = 3, page = 2, box = "09-02-01", desc = "Object 1 has face colors"},
+    { points = 1, page = 2, box = "09-02-01", desc = "Object 2 has (at least) 3 triangles"},
+    { points = 3, page = 2, box = "09-02-01", desc = "Object 2 had vertex colors where we can see blending"},
+    { points = 1, page = 2, box = "09-02-01", desc = "Object 3 has (at least) 3 triangles"},
+    { points = 3, page = 2, box = "09-02-01", desc = "Object 3 has normals that make things look smooth"},
+    { points = 2, page = 2, box = "09-02-01", desc = "Code Check: objects build “manually”"},
+    { points = 4, page = 5, box = "09-05-01", desc = "There are 2 dice"},
+    { points = 4, page = 5, box = "09-05-01", desc = "Dice have numbers on their sides"},
+    { points = 5, page = 5, box = "09-05-01", desc = "Dice have correct numbers on their sides"},
+    { points = 2, page = 5, box = "09-05-01", desc = "The two dice show different numbers on top"},
+    { points = 2, page = 5, box = "09-05-01", desc = "Rounded edges"},
+    { points = 5, page = 5, box = "09-05-02", desc = "At least one domino"},
+    { points = 10, page = 5, box = "09-05-02", desc = "The domino is a double 6 (correct texture)"},
+    { points = 2, page = 5, box = "09-05-02", desc = "More dominos (with different numbers)"},
+    { points = 2, page = 5, box = "09-05-02", desc = "Legal domino arrangement (at least 4 dominos)"},
+    { points = 2, page = 5, box = "09-05-02", desc = "Rounded edges"},
+    { points = 5, page = 6, box = "09-06-01", desc = "Building Type 1"},
+    { points = 5, page = 6, box = "09-06-01", desc = "Has texture"},
+    { points = 2, page = 6, box = "09-06-01", desc = "fancy/complex texture and/or shape (building 1)"},
+    { points = 5, page = 6, box = "09-06-01", desc = "Building Type 2"},
+    { points = 5, page = 6, box = "09-06-01", desc = "Has texture"},
+    { points = 5, page = 6, box = "09-06-01", desc = "Has different roof type than 1"},
+    { points = 2, page = 6, box = "09-06-01", desc = "fancy/complex texture and/or shape (building 2)"},
+    { points = 1, page = 6, box = "09-06-01", desc = "Building Type 3"},
+    { points = 2, page = 6, box = "09-06-01", desc = "different roof type than others"},
+    { points = 10, page = 7, box = "09-07-01", desc = "Car or Vehicle (looks like a car or other vehicle)"},
+    { points = 5, page = 7, box = "09-07-01", desc = "Has texture (or at least coloring)"},
+    { points = 2, page = 7, box = "09-07-01", desc = "fancy vehicle"},
+    { points = 2, page = 7, box = "09-07-01", desc = "more than 1 vehicle type"}
 ]
 bonus = [
 ]
@@ -334,22 +332,22 @@ points = [
     { points = 5, page = "none", box = "none", desc = "(at least one) texture you made by painting (described in the readme)"},
     { points = 5, page = "none", box = "none", desc = "(at least one) texture you found on the web (described in readme with proper attribution)"},
     { points = 5, page = "none", box = "none", desc = "(at least one) a texture you made by taking a picture (described in the readme)"},
-    { points = 5, page = 2, box = "2-1", desc = "an appropriate scene (objects, lighting, …)"},
-    { points = 5, page = 2, box = "2-1", desc = "clear use of mat prop map"},
-    { points = 2, page = 3, box = "3-1", desc = "readme specifies which is normal map and which is bump map"},
-    { points = 1, page = 3, box = "3-1", desc = "appropriate scene (objects and lighting)"},
-    { points = 2, page = 3, box = "3-1", desc = "bump map object looks “bump mappy”"},
-    { points = 1, page = 3, box = "3-1", desc = "confirm bump map is a bump map (1 channel)"},
-    { points = 2, page = 3, box = "3-1", desc = "normal map object looks “normal mappy”"},
-    { points = 2, page = 3, box = "3-1", desc = "confirm normal map is a normal map (3 channels)"},
-    { points = 5, page = 4, box = "4-1", desc = "both 4-1 and 4-2 look like a skybox"},
-    { points = 5, page = 4, box = "4-1", desc = "4-1 is a fake sky box (get close to edge)"},
-    { points = 10, page = 5, box = "5-1", desc = "there is a reflective object in the scene that shows the skybox"},
-    { points = 5, page = 6, box = "6-1", desc = "there are shadows"},
-    { points = 5, page = 6, box = "6-1", desc = "there are shadows of one object onto another object"},
-    { points = 5, page = 7, box = "7-1", desc = "there is an object reflecting the environment"},
-    { points = 10, page = 7, box = "7-1", desc = "the reflections show the scene (not just the background)"},
-    { points = 3, page = 7, box = "7-1", desc = "you can see moving objects in the reflection"}
+    { points = 5, page = 2, box = "10-02-01", desc = "an appropriate scene (objects, lighting, …)"},
+    { points = 5, page = 2, box = "10-02-01", desc = "clear use of mat prop map"},
+    { points = 2, page = 3, box = "10-03-01", desc = "readme specifies which is normal map and which is bump map"},
+    { points = 1, page = 3, box = "10-03-01", desc = "appropriate scene (objects and lighting)"},
+    { points = 2, page = 3, box = "10-03-01", desc = "bump map object looks “bump mappy”"},
+    { points = 1, page = 3, box = "10-03-01", desc = "confirm bump map is a bump map (1 channel)"},
+    { points = 2, page = 3, box = "10-03-01", desc = "normal map object looks “normal mappy”"},
+    { points = 2, page = 3, box = "10-03-01", desc = "confirm normal map is a normal map (3 channels)"},
+    { points = 5, page = 4, box = "10-04-01", desc = "both 4-1 and 4-2 look like a skybox"},
+    { points = 5, page = 4, box = "10-04-01", desc = "4-1 is a fake sky box (get close to edge)"},
+    { points = 10, page = 5, box = "10-05-01", desc = "there is a reflective object in the scene that shows the skybox"},
+    { points = 5, page = 6, box = "10-06-01", desc = "there are shadows"},
+    { points = 5, page = 6, box = "10-06-01", desc = "there are shadows of one object onto another object"},
+    { points = 5, page = 7, box = "10-07-01", desc = "there is an object reflecting the environment"},
+    { points = 10, page = 7, box = "10-07-01", desc = "the reflections show the scene (not just the background)"},
+    { points = 3, page = 7, box = "10-07-01", desc = "you can see moving objects in the reflection"}
 ]
 bonus = [
 ]
@@ -367,20 +365,21 @@ learninggoals = [
     "See how shaders are managed and integrated into a graphics application."
 ]
 points = [
-    { points = 5, page = 5, box = "5-3", desc = "responds to slider"},
-    { points = 10, page = 5, box = "5-4", desc = "some other pattern"},
-    { points = 5, page = 6, box = "6-2", desc = "non-jaggy checkerboard"},
-    { points = 8, page = 8, box = "8-1", desc = "has a procedural pattern"},
-    { points = 7, page = 8, box = "8-1", desc = "has lighting"},
-    { points = 3, page = 8, box = "8-1", desc = "uses THREE lighting"},
-    { points = 8, page = 8, box = "8-2", desc = "has an image-based texture"},
-    { points = 7, page = 8, box = "8-2", desc = "has lighting"},
-    { points = 3, page = 8, box = "8-2", desc = "uses THREE lighting"},
-    { points = 2, page = 8, box = "8-2", desc = "does something besides just light texture"},
-    { points = 10, page = 8, box = "8-3", desc = "Some shader that is different than what is in other boxes"},
-    { points = 10, page = 9, box = "9-1", desc = "has some example"},
-    { points = 3, page = 9, box = "9-1", desc = "gives attribution"},
-    { points = 8, page = 9, box = "9-1", desc = "gives an explanation"}
+    { points = 10, page = 5, box = "11-05-03", desc = "looks like a checkerboard"},
+    { points = 5, page = 5, box = "11-05-03", desc = "responds to slider"},
+    { points = 10, page = 5, box = "11-05-04", desc = "some other pattern"},
+    { points = 5, page = 6, box = "11-06-02", desc = "non-jaggy checkerboard"},
+    { points = 8, page = 8, box = "11-08-01", desc = "has a procedural pattern"},
+    { points = 7, page = 8, box = "11-08-01", desc = "has lighting"},
+    { points = 3, page = 8, box = "11-08-01", desc = "uses THREE lighting"},
+    { points = 8, page = 8, box = "11-08-02", desc = "has an image-based texture"},
+    { points = 7, page = 8, box = "11-08-02", desc = "has lighting"},
+    { points = 3, page = 8, box = "11-08-02", desc = "uses THREE lighting"},
+    { points = 2, page = 8, box = "11-08-02", desc = "does something besides just light texture"},
+    { points = 10, page = 8, box = "11-08-03", desc = "Some shader that is different than what is in other boxes"},
+    { points = 10, page = 9, box = "11-09-01", desc = "has some example"},
+    { points = 3, page = 9, box = "11-09-01", desc = "gives attribution"},
+    { points = 8, page = 9, box = "11-09-01", desc = "gives an explanation"}
 ]
 bonus = [
 ]
