@@ -45,7 +45,7 @@ learninggoals = [
     "Practice basic JavaScript and understand how to attach programs to web pages",
     "Make interactions and animations with JavaScript web pages",
     "Differentiate and use event-driven- and animation-loop-driven- programming",
-    "Practice writing JavaScript and check your tool setup"
+    "Understand how to control timing with browser animation loops"
 ]
 points = [
     { points = 40, page = "none", box = "none", desc = "correctly turning something in (committing changes and pushing it back to GitHub)"},
