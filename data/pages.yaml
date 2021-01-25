@@ -725,7 +725,7 @@ khronos-webgl-reference-card:
 #./Workbook11/content/docs/3.md:::40:
 #./Workbook11/content/docs/8.md:::24:
 #./Workbook11/content/docs/9.md:::18:
-shaderfrog:
+shader-frog:
   url: https://shaderfrog.com/
   name: "ShaderFrog"
 
