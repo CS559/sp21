@@ -6,7 +6,7 @@
     {{- with $altname -}}
     {{- $altname -}}
     {{- else -}}
-    {{- $book.filename -}} ({{- $book.size_str -}})
+    {{- $book.filename }} ({{ $book.size_str -}})
     {{- end -}}
 </a>
 {{- else -}}
