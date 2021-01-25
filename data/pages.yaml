@@ -461,4 +461,7 @@ sp21-workbook-quiz-12-bonus:
   url: https://canvas.wisc.edu/courses/241843/assignments/1096841
   name: "Workbook 12: Graphics Town (Bonus Points)"
 
-
+# PLA library search
+pla_library:
+  url: https://search.library.wisc.edu/catalog/9911163667202121
+  name: "Practical Linear Algebra at the UW Library"
