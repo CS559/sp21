@@ -461,4 +461,390 @@ sp21-workbook-quiz-12-bonus:
   url: https://canvas.wisc.edu/courses/241843/assignments/1096841
   name: "Workbook 12: Graphics Town (Bonus Points)"
 
+# PLA library search
+pla_library:
+  url: https://search.library.wisc.edu/catalog/9911163667202121
+  name: "Practical Linear Algebra at the UW Library"
+
+
+
+#### Web links that had previously been plain markdown
+#### TODO: organize, finish replacement, check validity
+
+#./Workbook01/content/docs/3.md:::58:
+mozilla-script-tag:
+  url: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script
+  name: "HTML documentation for the script tag"
+
+
+#./Workbook02/content/docs/2.md:::152:
+canvas-cheat-sheet:
+  url: http://cheatsheetworld.com/programming/html5-canvas-cheat-sheet/
+  name: "Canvas Cheat Sheet: "
+
+
+#./Workbook02/content/docs/2.md:::153:
+marinacci-canvas:
+  url: https://joshondesign.com/p/books/canvasdeepdive/title.html
+  name: "HTML Canvas Deep Dive: "
+
+
+#./Workbook02/content/docs/2.md:::153:
+marinacci-canvas-ch01:
+  url: https://joshondesign.com/p/books/canvasdeepdive/chapter01.html
+  name: "first chapter"
+
+
+#./Workbook03/content/docs/1.md:::113:
+understanding-es6-ch13:
+  url: https://github.com/nzakas/understandinges6/blob/master/manuscript/13-Modules.md
+  name: "this chapter in Understanding ES6"
+
+
+#./Workbook04/content/docs/5.md:::89:
+mozilla-atan2:
+  url: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/atan2
+  name: "Mozilla `atan2` documentation"
+
+
+#./Workbook06/content/docs/1.md:::16:
+mozilla-canvas-rendering-context-2d:
+  url: https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/fill
+  name: "official documentation"
+
+
+#./Workbook06/content/docs/1.md:::16:
+wikipedia-non-zero:
+  url: http://en.wikipedia.org/wiki/Nonzero-rule
+  name: "non-zero"
+
+
+#./Workbook06/content/docs/1.md:::16:
+wikipedia-even-odd:
+  url: http://en.wikipedia.org/wiki/Even%E2%80%93odd_rule
+  name: "even-odd"
+
+
+#./Workbook06/content/docs/1.md:::18:
+html-living-standard:
+  url: https://html.spec.whatwg.org/multipage/canvas.html#fill-rule
+  name: "HTML Living Standard"
+
+
+#./Workbook06/content/docs/2.md:::10:
+2010-train-expert:
+  url: https://graphics.cs.wisc.edu/Courses/559-f2010/wiki/pub/train/samtrain.jpg
+  name: "the train expert"
+
+
+#./Workbook06/content/docs/2.md:::44:
+wikipedia-bogie:
+  url: https://en.wikipedia.org/wiki/Bogie
+  name: "Wikipedia article"
+
+
+#./Workbook06/content/docs/2.md:::44:
+wikipedia-bogie-diagram:
+  url: https://en.wikipedia.org/wiki/Bogie#/media/File:Bogie_Vehicle_Schematic-en.svg
+  name: "this diagram"
+
+
+#./Workbook09/content/docs/1.md:::32: Geometry
+#./Workbook09/content/docs/1.md:::36: (documentation)
+#./Workbook09/content/_index.md:::40: here
+threejs-geometry:
+  url: https://threejs.org/docs/#api/en/core/Geometry
+  name: "Geometry"
+
+
+#./Workbook09/content/docs/1.md:::32:
+threejs-mesh:
+  url: https://threejs.org/docs/#api/en/objects/Mesh
+  name: "Mesh"
+
+
+#./Workbook09/content/docs/1.md:::36: `Face3`
+#./Workbook09/content/_index.md:::40: documentation
+threejs-face3:
+  url: https://threejs.org/docs/#api/en/core/Face3
+  name: "`Face3`"
+
+
+#./Workbook09/content/docs/4.md:::12:
+2015-texture-example:
+  url: https://cs559.github.io/S20-FrameworkDemos/WebGLTexture/texture.html
+  name: "2015 example"
+
+
+#./Workbook09/content/docs/4.md:::16:
+threejsfundamentals-textures-tutorial:
+  url: https://threejsfundamentals.org/threejs/lessons/threejs-textures.html
+  name: "nice tutorial on texture mapping"
+
+
+#./Workbook09/content/docs/5.md:::47:
+dominoes-image:
+  url: https://www.123rf.com/photo_48347848_stock-vector-full-set-of-realistic-white-domino-pieces-vector-illustration-.html
+  name: "in a drawing"
+
+
+#./Workbook09/content/docs/6.md:::20: this page
+#./Workbook09/content/docs/6.md:::22: this page about roofs
+roof-types:
+  url: https://www.roofingcalc.com/top-20-roof-types/
+  name: "this page"
+
+
+#./Workbook09/content/docs/7.md:::20: this tutorial
+#./Workbook09/content/_index.md:::34: "discover threejs tutorial"
+discoverthreejs-transformations-tutorial:
+  url: https://discoverthreejs.com/book/1-first-steps/6-shapes-transformations/
+  name: "this tutorial"
+
+
+
+#./Workbook09/content/_index.md:::46:
+threejs-texture:
+  url: https://threejs.org/docs/#api/en/textures/Texture
+  name: "`Texture`"
+
+
+#./Workbook09/content/_index.md:::46:
+discoverthreejs-textures-intro:
+  url: https://discoverthreejs.com/book/1-first-steps/4-textures-intro/
+  name: "this Discover ThreeJS tutorial"
+
+
+#./Workbook09/content/_index.md:::46: "ThreeJS Baby Steps"
+allen-threejs-baby-steps:
+  url: http://rogerallen.github.io/webgl/2014/01/24/threejs-baby-steps/
+  name: "ThreeJS Baby Steps"
+
+
+#./Workbook10/content/docs/2.md:::10:
+threejs-meshstandardmaterial:
+  url: https://threejs.org/docs/#api/en/materials/MeshStandardMaterial
+  name: "`MeshStandardMaterial`"
+
+
+#./Workbook10/content/docs/3.md:::24:
+unity-standard-shader-material-parameter-normal-map:
+  url: https://docs.unity3d.com/Manual/StandardShaderMaterialParameterNormalMap.html
+  name: "Unity documentation"
+
+
+#./Workbook10/content/docs/4.md:::30:
+threejs-cube-texture:
+  url: https://threejs.org/docs/#api/en/textures/CubeTexture
+  name: "`CubeTexture`"
+
+
+#./Workbook10/content/docs/4.md:::30:
+threejs-scene-background:
+  url: https://threejs.org/docs/#api/en/scenes/Scene.background
+  name: "`background` of the `Scene`"
+
+
+#./Workbook10/content/docs/4.md:::54: handy web converter
+#./Workbook10/content/docs/4.md:::88: handy web converter
+360toolkit-cubemap-converter:
+  url: https://www.360toolkit.co/convert-spherical-equirectangular-to-cubemap
+  name: "handy web converter"
+
+
+#./Workbook10/content/docs/4.md:::54:
+threejs-cube-texture-loader:
+  url: https://threejs.org/docs/#api/en/loaders/CubeTextureLoader
+  name: "`CubeTextureLoader`"
+
+
+#./Workbook10/content/docs/4.md:::56:
+bourke-cubemaps:
+  url: http://paulbourke.net/miscellaneous/cubemaps/
+  name: "older page"
+
+
+#./Workbook10/content/docs/5.md:::20:
+threejs-mesh-standard-material:
+  url: https://threejs.org/docs/#api/en/materials/MeshStandardMaterial.envMap
+  name: "documentation"
+
+
+#./Workbook10/content/docs/5.md:::20:
+threejs-cube-texture:
+  url: https://threejs.org/docs/#api/en/textures/CubeTexture
+  name: "`CubeTextureMap`"
+
+
+#./Workbook10/content/docs/7.md:::40: demos
+#./Workbook10/content/_index.md:::25: demos
+#./Workbook10/content/_index.md:::62: demos
+2020-framework-demos:
+  url: https://cs559.github.io/S20-FrameworkDemos/
+  name: "demos"
+
+
+#./Workbook10/content/_index.md:::25:
+2020-lecture-19:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/posts/lecture19/
+  name: "Lecture 19/20"
+
+
+#./Workbook10/content/_index.md:::27:
+framework-documentation:
+  url: https://cs559.github.io/CS559-Framework/
+  name: "framework code documentation"
+
+#./Workbook10/content/_index.md:::64:
+hdri-haven:
+  url: https://hdrihaven.com/
+  name: "HDRI Haven"
+
+
+#./Workbook11/content/docs/2.md:::22:
+framework-shader-helper:
+  url: https://cs559.github.io/CS559-Framework/module-shaderHelper.html
+  name: "documentation"
+
+
+#./Workbook11/content/docs/2.md:::55: this page
+#./Workbook11/content/docs/2.md:::167: documentation
+#./Workbook11/content/docs/3.md:::60: docs
+#./Workbook11/content/docs/4.md:::41: `WebGlProgram`
+threejs-webgl-program:
+  url: https://threejs.org/docs/#api/en/renderers/webgl/WebGLProgram
+  name: "this page"
+
+
+#./Workbook11/content/docs/3.md:::18:
+khronos-webgl-reference-card:
+  url: https://www.khronos.org/files/webgl20-reference-guide.pdf
+  name: "WebGL Reference Card"
+
+
+#./Workbook11/content/docs/3.md:::40:
+#./Workbook11/content/docs/8.md:::24:
+#./Workbook11/content/docs/9.md:::18:
+shader-frog:
+  url: https://shaderfrog.com/
+  name: "ShaderFrog"
+
+
+#./Workbook11/content/docs/3.md:::44:
+bkcore-blog-shdr:
+  url: http://bkcore.com/blog/3d/shdr-online-glsl-shader-editor-viewer-validator.html
+  name: "here"
+
+
+#./Workbook11/content/docs/3.md:::60:
+threejs-shader-material:
+  url: https://threejs.org/docs/#api/en/materials/ShaderMaterial
+  name: "documentation"
+
+
+#./Workbook11/content/docs/4.md:::145:
+threejs-uniforms-lib:
+  url: https://threejs.org/docs/#api/en/renderers/shaders/UniformsLib
+  name: "`UniformsLib`"
+
+
+#./Workbook11/content/docs/9.md:::14:
+glsl-sandbox:
+  url: http://glslsandbox.com/
+  name: "GLSL Sandbox"
+
+
+#./Workbook11/content/docs/9.md:::15:
+shadertoy:
+  url: https://www.shadertoy.com/
+  name: "ShaderToy"
+
+
+#./Workbook11/content/docs/9.md:::16:
+the-book-of-shaders-examples:
+  url: https://thebookofshaders.com/examples/
+  name: "The Book of Shaders"
+
+
+#./Workbook11/content/docs/9.md:::17:
+centiscript:
+  url: http://ex.rzm.co.jp/centiscript/
+  name: "CentiScript"
+
+
+#./Workbook11/content/docs/9.md:::18:
+shaderfrog: "ShaderFrog"
+
+
+#./Workbook11/content/docs/9.md:::20:
+glsl-sandbox-wwi-dogfight:
+  url: http://glslsandbox.com/e#63078.0
+  name: "WWI dogfight"
+
+
+#./Workbook11/content/docs/9.md:::20:
+shadertoy-snake:
+  url: https://www.shadertoy.com/view/wlVSDK
+  name: "Snake"
+
+
+#./Workbook11/content/docs/9.md:::46:
+sp21-piazza:
+  url: https://piazza.com/class/kjng0x2nmlw4zw
+  name: "Piazza"
+
+
+#./Workbook11/content/_index.md:::48:
+library-glsl-essentials:
+  url: https://search.library.wisc.edu/catalog/9912150691002121
+  name: "UW library"
+
+
+#./Workbook11/content/_index.md:::48:
+library-opengl4-shading-language-cookbook:
+  url: https://search.library.wisc.edu/catalog/9911069619502121
+  name: "OpenGL4 Shading Language Cookbook"
+
+
+#./Workbook11/content/_index.md:::66:
+shaderific-glsl-reference:
+  url: http://www.shaderific.com/glsl/
+  name: "GLSL reference"
+
+
+#./Workbook11/content/_index.md:::68:
+khronos-glsl-spec:
+  url: https://www.khronos.org/registry/OpenGL/specs/gl/GLSLangSpec.4.60.pdf
+  name: "here"
+
+
+#./Workbook11/content/_index.md:::76:
+the-book-of-shaders:
+  url: https://thebookofshaders.com/
+  name: "The Book of Shaders"
+
+#./Workbook12/content/_index.md:::15: instructions
+#./Workbook12/content/_index.md:::19: Workbook 12: Graphics Town (Main Page)
+2020-graphics-town:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/grtown/
+  name: "instructions"
+
+
+#./Workbook12/content/_index.md:::20:
+2020-graphics-town-rubric:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/grtown/rubric/
+  name: "The rubric (which details the requirements)"
+
+
+#./Workbook12/content/_index.md:::21:
+2020-graphics-town-hints:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/grtown/hints/
+  name: "A Page of Hints"
+
+
+#./Workbook12/content/_index.md:::22:
+2020-graphics-town-framework:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/grtown/framework/
+  name: "Notes on the Framework"
+
 
