@@ -37,7 +37,7 @@
 [[workbook]] # Workbook 1
 number = 1
 name = "Introduction (Pre-Graphics)"
-due = 2021-02-08
+due = 2021-02-01
 learninggoals = [
     "Understand and use the class mechanics (GitHub classroom links, Git, local servers, editing pages, ...)",
     "Understand the organization of workbooks for the class (looking at pages, boxes, editing and adding things, turning things in)",
@@ -75,7 +75,7 @@ bonus = [
 [[workbook]] # Workbook 2
 number = 2
 name = "Graphics APIs and Drawing Basics"
-due = 2021-02-15
+due = 2021-02-08
 learninggoals = [
     "To introduce the idea of object-based graphics as opposed to image-based graphics",
     "To show the two different types of graphics APIs, immediate mode and retained mode",
@@ -110,7 +110,7 @@ bonus = [
 ######################################################################
 [[workbook]] # Workbook 3
 number = 3
-due = 2021-02-22
+due = 2021-02-15
 name = "Transformations"
 learninggoals = [
 ]
@@ -128,7 +128,7 @@ points = [
 ######################################################################
 [[workbook]] # Workbook 4
 number = 4
-due = 2021-03-01
+due = 2021-02-22
 name = "Transformation Math"
 learninggoals = [
 ]
@@ -147,7 +147,7 @@ bonus = [
 ######################################################################
 [[workbook]] # Workbook 5
 number = 5
-due = 2021-03-08
+due = 2021-03-01
 name = "Curves in 2D"
 learninggoals = [
 ]
@@ -165,7 +165,7 @@ bonus = [
 ######################################################################
 [[workbook]] # Workbook 6
 number = 6
-due = 2021-03-15
+due = 2021-03-08
 name = "The Train (More Curves)"
 learninggoals = [
 ]
@@ -197,7 +197,7 @@ bonus = [
 ######################################################################
 [[workbook]] # Workbook 7
 number = 7
-due = 2021-03-22
+due = 2021-03-15
 name = "3D and Three"
 learninggoals = [
     "Get you set up with the mechanics of using THREE.js",
@@ -217,7 +217,7 @@ bonus = [
 [[workbook]] # Workbook 8
 number = 8
 name = "Transformation and Hierarchy in Three.js"
-due = 2021-03-29
+due = 2021-03-22
 brief = "This week, we'll continue to do more THREE programming, with a focus on using THREE's mechanisms for transformation and hierarchy to make more interesting things."
 learninggoals = [
     "To gain some experience doing hierarchical modeling, particularly for animation",
@@ -279,7 +279,7 @@ maxbonus=20
 ######################################################################
 [[workbook]] # Workbook 9
 number = 9
-due = 2021-04-05
+due = 2021-03-29
 name = "Meshes and Textures"
 learninggoals = [
     "To get some practice with mesh data structures, and see how they are used in a practical API.",
@@ -326,7 +326,7 @@ bonus = [
 ######################################################################
 [[workbook]] # Workbook 10
 number = 10
-due = 2021-04-12
+due = 2021-04-05
 name = "Fancier Textures and Lighting"
 learninggoals = [
     "To learn about how local lighting is computed, and see how it is used in a practical system.",
@@ -363,7 +363,7 @@ bonus = [
 ######################################################################
 [[workbook]] # Workbook 11
 number = 11
-due = 2021-04-19
+due = 2021-04-12
 name = "Shaders"
 learninggoals = [
     "Understand the basic organization of graphics hardware, and how programmability fits into it.",
@@ -395,7 +395,7 @@ bonus = [
 ######################################################################
 [[workbook]] # Workbook 12
 number = 12
-due = 2021-04-30
+due = 2021-04-26
 name = "Graphics Town"
 learninggoals = [
 ]
