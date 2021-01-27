@@ -20,6 +20,9 @@ canvas:
 canvas-schedule:
   name: "Canvas Schedule"
   url: https://canvas.wisc.edu/courses/241843/external_tools/5326
+kaltura-channel:
+  name: "Kaltura Mediaspace: CS559 Spring 2021 Lectures and Videos (Channel)"
+  url: https://mediaspace.wisc.edu/channel/CS559%2BSpring%2B2021%2BLectures%2Band%2BVideos/199466623
 
 # university resources for policies
 uw-academic-conduct:
