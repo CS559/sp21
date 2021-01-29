@@ -318,22 +318,22 @@ when-do-i-draw:
   url: https://graphics.cs.wisc.edu/WP/tutorials/when-do-i-draw-some-comments-on-code-organization/
   name: "CS559 Tutorial: When do I draw (2015)"
 svg1:
-  url: https://graphics.cs.wisc.edu/WP/cs559-fall2014/2014/08/30/getting-started-with-svg/
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/svg/svg1/
   name: "CS559 SVG Tutorial Part 1: Getting Started with SVG"
 svg2:
-  url: https://graphics.cs.wisc.edu/WP/cs559-fall2014/2014/09/04/svg2-coordinate-systems/
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/svg/svg2/
   name: "CS559 SVG Tutorial Part 2: Coordinate Systems"
 svg3:
-  url: https://graphics.cs.wisc.edu/WP/cs559-fall2014/2014/09/05/tutorial-svg3/
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/svg/svg3/
   name: "CS559 SVG Tutorial Part 3: Manipulating Primitives"
 svg4:
-  url: https://graphics.cs.wisc.edu/WP/cs559-fall2014/2014/09/06/svg4-groups-transforms-re-use-and-hierarchies/
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/svg/svg4/
   name: "CS559 SVG Tutorial Part 4: Groups, Transformations, Re-Use and Hierarchies"
 svg5:
-  url: https://graphics.cs.wisc.edu/WP/cs559-fall2014/2014/09/09/svg5-more-transforms-and-composition/
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/svg/svg5/
   name: "CS559 SVG Tutorial Part 5: Transformations and Composition"
 svg6:
-  url: https://graphics.cs.wisc.edu/WP/cs559-fall2014/2014/09/28/svg6-paths-and-beziers/
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/svg/svg6/
   name: "CS559 SVG Tutorial Part 6: Paths and Beziers"
 
 2015-quadcopter-assignment:
@@ -343,9 +343,10 @@ svg6:
   url: http://graphics.cs.wisc.edu/Courses/559-f2015/Examples/QuadCopter/quad.html
   name: "2015 Quadcopter Example"
 
-2008-boids-example:
-  url: http://pages.cs.wisc.edu/~gleicher/Hacks/Boids/
-  name: "2008 Boids Example"
+# the 2008 Boids example is gone from the internet :-(
+# 2008-boids-example:
+#  url: http://pages.cs.wisc.edu/~gleicher/Hacks/Boids/
+#  name: "2008 Boids Example"
 
 2010-games-project:
   url: http://graphics.cs.wisc.edu/Courses/Games10/Main/Project1
