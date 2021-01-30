@@ -303,20 +303,21 @@ pile-driver:
 
 # CS559 Tutorials Past
 color:
-  url: http://graphics.cs.wisc.edu/WP/tutorials/color-initial-answers-to-a-practical-question
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2021/tutorials/color/
   name: "CS559 Color Tutorial"
 points-vectors:
-  url: https://graphics.cs.wisc.edu/WP/tutorials/points-vectors-and-coordinate-systems-why-are-points-and-vectors-different/
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2021/tutorials/points-vectors/
   name: "CS559 Tutorial: Points, Vectors, Coordinate System Note"
 raster-vector:
-  url: https://graphics.cs.wisc.edu/WP/tutorials/image-based-graphics-vs-object-based-graphics/
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2021/tutorials/images-vs-objects/
   name: "CS559 Tutorial: Image-Based vs. Object-Based Graphics"
 what-is-pixel:
-  url: https://graphics.cs.wisc.edu/WP/tutorials/what-is-a-pixel-and-what-is-a-point-sample/
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2021/tutorials/pixels/
   name: "CS559 Tutorial: What is a Pixel"
-when-do-i-draw:
-  url: https://graphics.cs.wisc.edu/WP/tutorials/when-do-i-draw-some-comments-on-code-organization/
-  name: "CS559 Tutorial: When do I draw (2015)"
+# do not refer to this tutorial - it is too out of date!
+#when-do-i-draw:
+#  url: https://graphics.cs.wisc.edu/WP/tutorials/when-do-i-draw-some-comments-on-code-organization/
+#  name: "CS559 Tutorial: When do I draw (2015)"
 svg1:
   url: https://graphics.cs.wisc.edu/Courses/559-sp2020/svg/svg1/
   name: "CS559 SVG Tutorial Part 1: Getting Started with SVG"
