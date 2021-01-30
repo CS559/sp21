@@ -86,23 +86,23 @@ learninggoals = [
 ]
 points = [
     { points = 35, page = "none", box= "none", desc = "correctly turning in an assignment with a proper readme"},
-    { points = 20, page = 3, box = "02-03-01", desc = "making each shape"},
-    { points = 5, page = 3, box = "02-03-02", desc = "making a picture"},
-    { points = 5, page = 3, box = "02-03-02", desc = "shapes that aren't rectangles"},
-    { points = 5, page = 3, box = "02-03-02", desc = "transparency (must be obvious from looking at the picture)"},
-    { points = 2, page = 3, box = "02-03-02", desc = "making a cool picture (grader's discretion)"},
-    { points = 5, page = 5, box = "02-05-01", desc = "making circles appear when the mouse is clicked"},
-    { points = 4, page = 5, box = "02-05-01", desc = "having the circles change color when the mouse is over them"},
-    { points = 4, page = 5, box = "02-05-01", desc = "having the circle change their color back when the mouse leaves them"},
-    { points = 2, page = 5, box = "02-05-01", desc = "having the circle change color when clicked (bonus points), with the hover behavior still working"},
-    { points = 2, page = 5, box = "02-05-02", desc = "user clicks mouse, object shoots from the bottom to that position"},
-    { points = 2, page = 5, box = "02-05-02", desc = "object explodes into small pieces when it gets to position"},
-    { points = 2, page = 5, box = "02-05-02", desc = "explosions fade out (or disappear) after a distance"},
-    { points = 2, page = 5, box = "02-05-02", desc = "multiple fireworks at once (if user clicks quickly)"},
-    { points = 1, page = 5, box = "02-05-02", desc = "random fireworks in addition to user clicks"},
-    { points = 1, page = 5, box = "02-05-02", desc = "fireworks start from random locations at bottom"},
-    { points = 2, page = 5, box = "02-05-02", desc = "projectile motion"},
-    { points = 1, page = 5, box = "02-05-02", desc = "something else creative"}
+    { points = 20, page = 4, box = "02-04-01", desc = "making each shape"},
+    { points = 5, page = 4, box = "02-04-02", desc = "making a picture"},
+    { points = 5, page = 4, box = "02-04-02", desc = "shapes that aren't rectangles"},
+    { points = 5, page = 4, box = "02-04-02", desc = "transparency (must be obvious from looking at the picture)"},
+    { points = 2, page = 4, box = "02-04-02", desc = "making a cool picture (grader's discretion)"},
+    { points = 5, page = 7, box = "02-07-01", desc = "making circles appear when the mouse is clicked"},
+    { points = 4, page = 7, box = "02-07-01", desc = "having the circles change color when the mouse is over them"},
+    { points = 4, page = 7, box = "02-07-01", desc = "having the circle change their color back when the mouse leaves them"},
+    { points = 2, page = 7, box = "02-07-01", desc = "having the circle change color when clicked (bonus points), with the hover behavior still working"},
+    { points = 2, page = 7, box = "02-07-02", desc = "user clicks mouse, object shoots from the bottom to that position"},
+    { points = 2, page = 7, box = "02-07-02", desc = "object explodes into small pieces when it gets to position"},
+    { points = 2, page = 7, box = "02-07-02", desc = "explosions fade out (or disappear) after a distance"},
+    { points = 2, page = 7, box = "02-07-02", desc = "multiple fireworks at once (if user clicks quickly)"},
+    { points = 1, page = 7, box = "02-07-02", desc = "random fireworks in addition to user clicks"},
+    { points = 1, page = 7, box = "02-07-02", desc = "fireworks start from random locations at bottom"},
+    { points = 2, page = 7, box = "02-07-02", desc = "projectile motion"},
+    { points = 1, page = 7, box = "02-07-02", desc = "something else creative"}
 ]
 bonus = [
 ]
