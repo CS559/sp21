@@ -307,7 +307,7 @@ color:
   name: "CS559 Color Tutorial"
 points-vectors:
   url: https://graphics.cs.wisc.edu/Courses/559-sp2021/tutorials/points-vectors/
-  name: "CS559 Tutorial: Points, Vectors, Coordinate System Note"
+  name: "CS559 Tutorial: Points, Vectors, Coordinate Systems"
 raster-vector:
   url: https://graphics.cs.wisc.edu/Courses/559-sp2021/tutorials/images-vs-objects/
   name: "CS559 Tutorial: Image-Based vs. Object-Based Graphics"
