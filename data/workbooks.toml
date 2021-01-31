@@ -82,16 +82,16 @@ learninggoals = [
     "To give you experience programming with the Canvas API that web browsers provide",
     "To give you exposure to SVG, which we will look at more in the future",
     "To see how the event and animation loop models introduced in the previous workbook are used in graphics",
-    "To get more practice with reading and writing JavaScript programs"
+    "To introduce the concept of display lists",
+    "To practice with reading and writing JavaScript programs with actual **graphics programs**"
 ]
 points = [
     { points = 35, page = "none", box= "none", desc = "correctly turning in an assignment with a proper readme"},
-    { points = 20, page = 4, box = "02-04-01", desc = "making each shape"},
+    { points = 20, page = 4, box = "02-04-01", desc = "5 pts for each of 4 shapes"},
     { points = 5, page = 4, box = "02-04-02", desc = "making a picture"},
     { points = 5, page = 4, box = "02-04-02", desc = "shapes that aren't rectangles"},
     { points = 5, page = 4, box = "02-04-02", desc = "transparency (must be obvious from looking at the picture)"},
-    { points = 2, page = 4, box = "02-04-02", desc = "making a cool picture (grader's discretion)"},
-    { points = 5, page = 7, box = "02-07-01", desc = "making circles appear when the mouse is clicked"},
+     { points = 5, page = 7, box = "02-07-01", desc = "making circles appear when the mouse is clicked"},
     { points = 4, page = 7, box = "02-07-01", desc = "having the circles change color when the mouse is over them"},
     { points = 4, page = 7, box = "02-07-01", desc = "having the circle change their color back when the mouse leaves them"},
     { points = 2, page = 7, box = "02-07-01", desc = "having the circle change color when clicked (bonus points), with the hover behavior still working"},
@@ -105,6 +105,7 @@ points = [
     { points = 1, page = 7, box = "02-07-02", desc = "something else creative"}
 ]
 bonus = [
+   { points = 2, page = 4, box = "02-04-02", desc = "artistic merit points for a cool picture (grader's discretion)"},
 ]
 
 ######################################################################
