@@ -94,7 +94,7 @@ points = [
     # Canvas display lists
      { points = 5, page = 7, box = "02-07-01", desc = "making circles appear when the mouse is clicked"},
     { points = 4, page = 7, box = "02-07-01", desc = "having the circles change color when the mouse is over them"},
-    { points = 4, page = 7, box = "02-07-01", desc = "having the circle change their color back when the mouse leaves them"},
+    { points = 4, page = 7, box = "02-07-01", desc = "having the circles change their color back when the mouse leaves them"},
     # fireworks
     { points = 3, page = 7, box = "02-07-02", desc = "user clicks mouse, firework shoots from the bottom towards mouse"},
     { points = 3, page = 7, box = "02-07-02", desc = "firework moves to mouse position over time"},
