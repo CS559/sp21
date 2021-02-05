@@ -345,9 +345,10 @@ svg6:
   name: "2015 Quadcopter Example"
 
 # the 2008 Boids example is gone from the internet :-(
-# 2008-boids-example:
-#  url: http://pages.cs.wisc.edu/~gleicher/Hacks/Boids/
-#  name: "2008 Boids Example"
+# I resurrected a copy!
+2008-boids-example:
+  url: https://pages.cs.wisc.edu/~gleicher/OldHacks/2008Boids/
+  name: "2008 Boids Example"
 
 2010-games-project:
   url: http://graphics.cs.wisc.edu/Courses/Games10/Main/Project1
