@@ -127,9 +127,11 @@ points = [
     { points = 10, page = 3, box = "03-03-03", desc = "add appropriate transformations to make both images look the same"},
     { points = 10, page = 3, box = "03-03-05", desc = "define the canvas coordinate systems as specified"},
     { points = 20, page = 6, box = "03-06-01", desc = "make a quadcopter with four attached propellers that moves as specified"},
-    { points = 15, page = 7, box = "03-07-01", desc = "make an SVG picture using hierarchical modelling"},
+    { points = 15, page = 8, box = "03-07-01", desc = "make an SVG picture using hierarchical modelling"},
+]
+bonus = [
     { points = 8, page = 6, box = "03-06-01", desc = "additional quadcopter features"},
-    { points = 3, page = 7, box = "03-07-01", desc = "for a particularly creative solutions or a solution that uses additional SVG features"}
+    { points = 3, page = 8, box = "03-07-01", desc = "for a particularly creative solutions or a solution that uses additional SVG features"}
 ]
 
 ######################################################################
