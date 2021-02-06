@@ -200,7 +200,7 @@ mozilla-vector:
   url: https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web
 
 mozilla-svg:
-  name: "Mozilla Tutorial"
+  name: "Mozilla SVG Tutorial"
   url: https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
 
 mozilla-typed-array:
@@ -321,23 +321,26 @@ what-is-pixel:
 #when-do-i-draw:
 #  url: https://graphics.cs.wisc.edu/WP/tutorials/when-do-i-draw-some-comments-on-code-organization/
 #  name: "CS559 Tutorial: When do I draw (2015)"
+svg-tutorial:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2021/tutorials/svg/
+  name: "CS559 SVG Tutorial"
 svg1:
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/svg/svg1/
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2021/tutorials/svg/svg1/
   name: "CS559 SVG Tutorial Part 1: Getting Started with SVG"
 svg2:
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/svg/svg2/
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2021/tutorials/svg/svg2/
   name: "CS559 SVG Tutorial Part 2: Coordinate Systems"
 svg3:
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/svg/svg3/
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2021/tutorials/svg/svg3/
   name: "CS559 SVG Tutorial Part 3: Manipulating Primitives"
 svg4:
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/svg/svg4/
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2021/tutorials/svg/svg4/
   name: "CS559 SVG Tutorial Part 4: Groups, Transformations, Re-Use and Hierarchies"
 svg5:
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/svg/svg5/
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2021/tutorials/svg/svg5/
   name: "CS559 SVG Tutorial Part 5: Transformations and Composition"
 svg6:
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/svg/svg6/
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2021/tutorials/svg/svg6/
   name: "CS559 SVG Tutorial Part 6: Paths and Beziers"
 
 2015-quadcopter-assignment:
