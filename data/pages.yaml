@@ -146,6 +146,10 @@ framework-demos:
   name: "Framework Demos"
   url: https://cs559.github.io/S20-FrameworkDemos/
 
+transform-demos:
+  name: "2D Transform Demos"
+  url: https://cs559.github.io/2DTransformDemos/
+
 # Web Tutorials and references
 learning-html:
   url: https://developer.mozilla.org/en-US/docs/Learn/HTML
