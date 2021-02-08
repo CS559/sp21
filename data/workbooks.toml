@@ -121,6 +121,14 @@ number = 3
 due = 2021-02-15
 name = "Transformations"
 learninggoals = [
+    "Understand the concepts of transformation and their use in graphics",
+    "Understand how to think about transformations in terms of coordinate systems",
+    "Understand how basic transformations (rotate, translate, scale) are used",
+    "Understand how transformations are composed to achieve different effects",
+    "Be able to use the HTML Canvas transformation functionality",
+    "Understand and use the basic ideas of hierarchical modeling and articulation",
+    "Understand how hierearchy and transformation is represented in a scene-graph API such as SVG",
+    "Be able to use SVG (as a file format) including its hierarchy and instancing features"
 ]
 maxbonus = 11
 points = [
@@ -158,6 +166,13 @@ number = 4
 due = 2021-02-22
 name = "Transformation Math"
 learninggoals = [
+    "To understand how coordinate systems and transformations are represented mathematically",
+    "To understand affine transformations and the use of homogeneous coordinates to represent them",
+    "To be able to build transformation matrices based on the desired outcomes",
+    "To be able to read a transformation matrix to understand what it does",
+    "To understand how Canvas and SVG use matrices internally",
+    "To use transformations in matrix form in graphics programs",
+    "To practice graphics programming using vector math"
 ]
 points = [
     { points = 25, page = "none", box= "none", desc = "Baseline for turning in anything - with a correct README"},
@@ -177,6 +192,14 @@ number = 5
 due = 2021-03-01
 name = "Curves in 2D"
 learninggoals = [
+    "To understand the concepts of parametric curves and parameterizations",
+    "To understand curve tangents, derivatives, and continuity conditions",
+    "To understand piecewise polynomial representations of curves",
+    "To understand cubic segments, and the need for different forms",
+    "To understand arc-length parameterizations and how we approximate it",
+    "To understand the ideas and properties of Bezier curves including their geometric and algebraic formulations",
+    "To understand how we draw curves, including adaptation",
+    "To be able to use curves in various APIs, including curve format conversion"
 ]
 points = [
     { points = 5, page = "none", box= "none", desc = "Have a correct readme.md file"},
