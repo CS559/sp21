@@ -71,6 +71,9 @@ points = [
 bonus = [
     { points = 3, page = 6, box = "01-06-04", desc = "transition between multiple colors"}
 ]
+future = [
+    "points for correctly using time stamps in fading and slider motion 6-3 and 6-4"
+]
 
 ######################################################################
 [[workbook]] # Workbook 2
