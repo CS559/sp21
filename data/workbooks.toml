@@ -178,15 +178,25 @@ learninggoals = [
     "To practice graphics programming using vector math"
 ]
 points = [
-    { points = 25, page = "none", box= "none", desc = "Baseline for turning in anything - with a correct README"},
+    { points = 30, page = "none", box= "none", desc = "Correctly Turned in Assignment"},
     { points = 5, page = 4, box = "04-04-01", desc = "upper left corner is a red dot and upper right a green dot. Points should be draggable together with the square. The graders will check that you did this with translate, rotate, scale."},
     { points = 5, page = 4, box = "04-04-02", desc = "upper left corner is a red dot and upper right a green dot. Points should be draggable together with the square. The graders will check that you did this with transform."},
     { points = 5, page = 4, box = "04-04-03", desc = "the green dot should be in the corner opposite to upper left corner of the square. Points should be draggable. Square must remain a square."},
     { points = 5, page = 4, box = "04-04-04", desc = "replace all rotate, translate, and scale commands into a single transform command that does the same thing"},
     { points = 5, page = 4, box = "04-04-05", desc = "implement shear-x to draw sheared squares"},
-    { points = 30, page = 5, box = "04-05-01", desc = "Boids covering all the listed requirements"}
+    # 
+    { points = 5, page = 6, box = "04-06-01", desc = "Boids - add 10 boids when button is clicked"},
+    { points = 5, page = 6, box = "04-06-01", desc = "Boids - clear when button is clicked"},
+    { points = 5, page = 6, box = "04-06-01", desc = "Draw boids so the direction they are facing is clear"},
+    { points = 5, page = 6, box = "04-06-01", desc = "Boids bounce, not wrap"},
+    { points = 5, page = 6, box = "04-06-01", desc = "Boids bounce, not wrap"},
+    { points = 3, page = 6, box = "04-06-01", desc = "Boids change color (briefly) when they hit a wall"},
+    { points = 3, page = 6, box = "04-06-01", desc = "Boids change color (briefly) when they hit another boid"},
+
 ]
+maxbonus = 11
 bonus = [
+    { points = 3, page = 6, box = "04-06-01", desc = "Boids bounce, not wrap"},
 ]
 
 ######################################################################

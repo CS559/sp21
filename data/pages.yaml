@@ -134,6 +134,10 @@ traditional-oop-js:
   name: "Traditional Object Oriented Programming in JavaScript"
   url: https://graphics.cs.wisc.edu/Courses/559-sp2021/tutorials/oop-in-js-1/
   checked: 1/20/21
+traditional-oop-js-2:
+  name: "Object Oriented Programming in JavaScript Part 2"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2021/tutorials/oop-in-js-2/
+  checked: 1/20/21
 
 explore-js:
   name: "Exploring JS Ch15"
