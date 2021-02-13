@@ -257,6 +257,7 @@ points = [
     { points = 5, page = 2, box = "06-02-01", desc = "track configuration shows off arc length (train should speed up and slow down if arc length parameterization is turned off)"},
     { points = 10, page = 2, box = "06-02-01", desc = "your README.md explains which features you did and did not implement, and which ones you think work correctly."}
 ]
+maxbonus = 20
 bonus = [
     { points = 5, page = 2, box = "06-02-01", desc = "Arc Length parameterization (train goes at a relatively constant speed as it goes around the track, no matter what the control point spacing is). You must add a checkbox to turn this on and off. This one is hard, but it enables several of the other things, so it is actually worth a lot"},
     { points = 5, page = 2, box = "06-02-01", desc = "Rail Ties (1 pt for ties drawn perpendicular to the track, 4 pts for being drawn evenly spaced with arc-length parameterization and in the right directions)"},
@@ -266,10 +267,10 @@ bonus = [
     { points = 1, page = 2, box = "06-02-01", desc = "slider to control tension"},
     { points = 2, page = 2, box = "06-02-01", desc = "switchable B-Splines"},
     { points = 2, page = 2, box = "06-02-01", desc = "Smoke"},
-    { points = 1, page = 2, box = "06-02-01", desc = "nice looking train"},
-    { points = 1, page = 2, box = "06-02-01", desc = "nice looking track"},
-    { points = 1, page = 2, box = "06-02-01", desc = "nice looking scenery"},
-    { points = 1, page = 2, box = "06-02-01", desc = "scenery adapts to the track"}
+    { points = 1, page = 2, box = "06-02-01", desc = "artistic merit: nice looking train"},
+    { points = 1, page = 2, box = "06-02-01", desc = "artistic merit: nice looking track"},
+    { points = 1, page = 2, box = "06-02-01", desc = "artistic merit: nice looking scenery"},
+    { points = 1, page = 2, box = "06-02-01", desc = "artistic merit: scenery adapts to the track"}
 ]
 
 ######################################################################
