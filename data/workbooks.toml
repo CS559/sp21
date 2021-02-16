@@ -181,7 +181,7 @@ learninggoals = [
 points = [
     { points = 25, page = "none", box= "none", desc = "Correctly Turned in Assignment"},
     { points = 1, page = 2, box = "04-02-01", desc = "filled in correct answer (2 numbers)"},
-    { points = 1, page = 2, box = "04-02-02", desc = "filled in correct answer (2 numbers)"},
+    { points = 2, page = 2, box = "04-02-02", desc = "filled in correct answer (2 numbers)"},
     { points = 2, page = 2, box = "04-02-03", desc = "filled in correct answer (2 numbers)"},
     { points = 1, page = 2, box = "04-02-04", desc = "filled in correct answer (2 numbers)"},
     #
