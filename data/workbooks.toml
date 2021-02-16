@@ -180,6 +180,11 @@ learninggoals = [
 ]
 points = [
     { points = 25, page = "none", box= "none", desc = "Correctly Turned in Assignment"},
+    { points = 1, page = 2, box = "04-02-01", desc = "filled in correct answer (2 numbers)"},
+    { points = 1, page = 2, box = "04-02-02", desc = "filled in correct answer (2 numbers)"},
+    { points = 2, page = 2, box = "04-02-03", desc = "filled in correct answer (2 numbers)"},
+    { points = 1, page = 2, box = "04-02-04", desc = "filled in correct answer (2 numbers)"},
+    #
     { points = 5, page = 4, box = "04-04-01", desc = "upper left corner is a red dot and upper right a green dot. Points should be draggable together with the square. The graders will check that you did this with translate, rotate, scale."},
     { points = 5, page = 4, box = "04-04-02", desc = "upper left corner is a red dot and upper right a green dot. Points should be draggable together with the square. The graders will check that you did this with transform."},
     { points = 5, page = 4, box = "04-04-03", desc = "the green dot should be in the corner opposite to upper left corner of the square. Points should be draggable. Square must remain a square."},
@@ -194,8 +199,8 @@ points = [
     { points = 3, page = 5, box = "04-05-01", desc = "Boids - clear when button is clicked"},
     { points = 5, page = 5, box = "04-05-01", desc = "Draw boids so the direction they are facing is clear"},
     { points = 5, page = 5, box = "04-05-01", desc = "Boids bounce, not wrap"},
-    { points = 3, page = 5, box = "04-05-01", desc = "Boids change color (briefly) when they hit a wall"},
-    { points = 3, page = 5, box = "04-05-01", desc = "Boids change color (briefly) when they hit another boid"}
+    { points = 4, page = 5, box = "04-05-01", desc = "Boids change color (briefly) when they hit a wall"},
+    { points = 3, page = 5, box = "04-05-01", desc = "Boids change color (briefly) when they hit another boid (either overlap or come very close)"}
 ]
 maxbonus = 11
 bonus = [
