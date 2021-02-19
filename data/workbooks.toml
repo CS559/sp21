@@ -185,9 +185,9 @@ points = [
     { points = 2, page = 2, box = "04-02-03", desc = "filled in correct answer (2 numbers)"},
     { points = 1, page = 2, box = "04-02-04", desc = "filled in correct answer (2 numbers)"},
     #
-    { points = 5, page = 4, box = "04-04-01", desc = "upper left corner is a red dot and upper right a green dot. Points should be draggable together with the square. The graders will check that you did this with translate, rotate, scale."},
-    { points = 5, page = 4, box = "04-04-02", desc = "upper left corner is a red dot and upper right a green dot. Points should be draggable together with the square. The graders will check that you did this with transform."},
-    { points = 5, page = 4, box = "04-04-03", desc = "the green dot should be in the corner opposite to upper left corner of the square. Points should be draggable. Square must remain a square."},
+    { points = 5, page = 4, box = "04-04-01", desc = "(reword) upper left corner is a red dot and upper right a black dot. Points should be draggable together with the square. The graders will check that you did this with translate, rotate, scale."},
+    { points = 5, page = 4, box = "04-04-02", desc = "(reword) upper left corner is a red dot and upper right a black dot. Points should be draggable together with the square. The graders will check that you did this with transform."},
+    { points = 5, page = 4, box = "04-04-03", desc = "(reword) the green dot should be in the corner opposite to upper left corner of the square. Points should be draggable. Square must remain a square."},
     { points = 2, page = 4, box = "04-04-04", desc = "replace parameters so that square 1 matches"},
     { points = 2, page = 4, box = "04-04-04", desc = "replace parameters so that square 2 matches (freebie!)"},
     { points = 2, page = 4, box = "04-04-04", desc = "replace parameters so that square 3 matches"},
@@ -487,3 +487,17 @@ points = [
 ]
 bonus = [
 ]
+
+######################################################################
+[[workbook]] # workbook 13 - not a real workbook
+number = 13
+due = 2021-02-26
+name = "Exam Questions Workspace"
+learninggoals = [
+    "Assess student learning"
+]
+points = [
+]
+bonus = [
+]
+maxbonus = 0
