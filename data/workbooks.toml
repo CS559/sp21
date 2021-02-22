@@ -233,11 +233,15 @@ learninggoals = [
     "To be able to use curves in various APIs, including curve format conversion"
 ]
 points = [
+    { points = 9, page = "none", box="none", desc = "correct turn in"},
     { points = 5, page = 1, box = "05-01-02", desc = "implement the correct tangent vector for the parabola"},
     { points = 4, page = 3, box = "05-03-01", desc = "cubic coefficients question"},
-    { points = 6, page = 7, box = "05-07-03", desc = "divide the Bezier curve"},
+    { points = 9, page = 7, box = "05-07-03", desc = "divide the Bezier curve"},
 
-    { points = 20, page = 9, box = "05-09-02", desc = "draw a picture that demonstrate the use of bezierCurveTo in Canvas"},
+    { points = 5,  page = 9, box = "05-09-01", desc = "recreated the picture using canvas"},
+    { points = 5,  page = 9, box = "05-09-01", desc = "didn't use quadratic commands"},
+    { points = 10, page = 9, box = "05-09-02", desc = "draw a picture that demonstrate the use of bezierCurveTo in Canvas"},
+    { points = 5,  page = 9, box = "05-09-02", desc = "explained where there is G(1) continuity"},
 
     { points = 10, page = 10, box = "05-04-03", desc = "make the green dot go around the triangle with arc-length parameterization"},
     { points = 10, page = 11, box = "05-11-01", desc = "draw the spiral"},
