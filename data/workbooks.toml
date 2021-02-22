@@ -244,8 +244,8 @@ points = [
 ]
 
 bonus = [
-    { points = 5, page = 7, box = "05-09-01", desc = "approximate spiral with Beziers, have a switch for lines/Beziers"},
-    { points = 2, page = 7, box = "05-11-01", desc = "artistic merit for making a picture"}
+    { points = 5, page = 11, box = "05-09-01", desc = "approximate spiral with Beziers, have a switch for lines/Beziers"},
+    { points = 2, page = 11, box = "05-11-01", desc = "artistic merit for making a picture"}
 ]
 
 ######################################################################
