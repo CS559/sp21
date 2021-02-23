@@ -243,7 +243,7 @@ points = [
     { points = 5,  page = 9, box = "05-09-01", desc = "recreated the picture using canvas"},
     { points = 5,  page = 9, box = "05-09-01", desc = "didn't use quadratic commands"},
     { points = 10, page = 9, box = "05-09-02", desc = "draw a picture that demonstrate the use of bezierCurveTo in Canvas"},
-    { points = 5,  page = 9, box = "05-09-02", desc = "explained where there is G(1) continuity"},
+    { points = 4,  page = 9, box = "05-09-02", desc = "explained where there is G(1) continuity"},
 
     { points = 10, page = 10, box = "05-10-03", desc = "make the green dot go around the triangle with arc-length parameterization"},
     { points = 10, page = 11, box = "05-11-01", desc = "draw the spiral"},
@@ -253,7 +253,7 @@ points = [
 ]
 
 bonus = [
-    { points = 2, page = 9, box = "05-09-02", desc = "artistic merit for making a picture"},
+    { points = 2, page = 9, box = "05-09-02", desc = "artistic merit for making a cool picture"},
 
     { points = 3, page = 11, box = "05-11-01", desc = "approximate spiral with Beziers, have a switch for lines/Beziers"}
 ]
