@@ -249,7 +249,7 @@ points = [
     { points = 10, page = 11, box = "05-11-01", desc = "draw the spiral"},
     { points = 3,  page = 11, box = "05-11-01", desc = "checkbox control of lines"},
     { points = 3,  page = 11, box = "05-11-01", desc = "slider control of points"},
-    { points = 10, page = 12, box = "05-12-01", desc = "use the UI code (`runCanvas` and `dragPoints`) to implement the specified example program"}
+    { points = 10, page = 12, box = "05-12-01", desc = "correctly use UI code"}
 ]
 
 bonus = [
