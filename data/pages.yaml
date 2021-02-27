@@ -552,9 +552,12 @@ html-living-standard:
 
 
 #./Workbook06/content/docs/2.md:::10:
-2010-train-expert:
-  url: https://graphics.cs.wisc.edu/Courses/559-f2010/wiki/pub/train/samtrain.jpg
+2008-train-expert:
+  url: https://graphics.cs.wisc.edu/Courses/559-f2008/pubs/pub_train_samtrain.jpg
   name: "the train expert"
+2008-train:
+  url: https://graphics.cs.wisc.edu/Courses/559-f2008/posts/assignments-p3-train/
+  name: "2008 Train Assignment"
 
 
 #./Workbook06/content/docs/2.md:::44:

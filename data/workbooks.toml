@@ -264,31 +264,38 @@ number = 6
 due = 2021-03-08
 name = "The Train (More Curves)"
 learninggoals = [
+    "To review the key concepts of parametric curves",
+    "To practice some key computations with curves",
+    "To implement various aspects of curves in the context of an application",
+    "To apprecaite why curve concepts, such as arc length parameterization and smoothness, are useful"
 ]
 points = [
-    { points = 10, page = 1, box = "06-01-01", desc = "make a polygon that appears different depending on the fill rule"},
-    { points = 15, page = 2, box = "06-02-01", desc = "drawing the track as a simple curve that interpolates the control points"},
-    { points = 15, page = 2, box = "06-02-01", desc = "train goes around the track"},
-    { points = 10, page = 2, box = "06-02-01", desc = "the interface still works (the track can be moved and the run slider works, even while the train is in motion)"},
-    { points = 5, page = 2, box = "06-02-01", desc = "train has a front"},
-    { points = 10, page = 2, box = "06-02-01", desc = "train points in the right direction as it goes around the track"},
-    { points = 5, page = 2, box = "06-02-01", desc = "track configuration shows off arc length (train should speed up and slow down if arc length parameterization is turned off)"},
-    { points = 10, page = 2, box = "06-02-01", desc = "your README.md explains which features you did and did not implement, and which ones you think work correctly."}
+    { points = 10, page = 1, box = "06-01-01", desc = "make a cardinal spline through the points"},
+    { points = 10, page = 1, box = "06-01-02", desc = "split the Bezier"},
+
+    { points = 15, page = 3, box = "06-03-01", desc = "drawing the track as a simple curve (cardinal spline) that interpolates the control points"},
+    { points = 15, page = 3, box = "06-03-01", desc = "train goes around the track"},
+    { points = 10, page = 3, box = "06-03-01", desc = "the interface still works (the track can be moved and the run slider works, even while the train is in motion)"},
+    { points = 5, page = 3, box = "06-03-01", desc = "train has a front"},
+    { points = 10, page = 3, box = "06-03-01", desc = "train points in the right direction as it goes around the track"},
+    { points = 5, page = 3, box = "06-03-01", desc = "track configuration shows off arc length (train should speed up and slow down if arc length parameterization is turned off)"},
+    { points = 5, page = 3, box = "06-03-01", desc = "text file explains features"}
 ]
 maxbonus = 20
 bonus = [
-    { points = 5, page = 2, box = "06-02-01", desc = "Arc Length parameterization (train goes at a relatively constant speed as it goes around the track, no matter what the control point spacing is). You must add a checkbox to turn this on and off. This one is hard, but it enables several of the other things, so it is actually worth a lot"},
-    { points = 5, page = 2, box = "06-02-01", desc = "Rail Ties (1 pt for ties drawn perpendicular to the track, 4 pts for being drawn evenly spaced with arc-length parameterization and in the right directions)"},
-    { points = 3, page = 2, box = "06-02-01", desc = "Parallel rails"},
-    { points = 5, page = 2, box = "06-02-01", desc = "Multiple cars (requires keeping the cars a fixed distance apart)"},
-    { points = 3, page = 2, box = "06-02-01", desc = "Trucked wheels (requires keeping the pairs of wheels the correct distance apart and on the track, and having the train car positioned appropriately - this is only for people who are into trains and appreciate this detail)"},
-    { points = 1, page = 2, box = "06-02-01", desc = "slider to control tension"},
-    { points = 2, page = 2, box = "06-02-01", desc = "switchable B-Splines"},
-    { points = 2, page = 2, box = "06-02-01", desc = "Smoke"},
-    { points = 1, page = 2, box = "06-02-01", desc = "artistic merit: nice looking train"},
-    { points = 1, page = 2, box = "06-02-01", desc = "artistic merit: nice looking track"},
-    { points = 1, page = 2, box = "06-02-01", desc = "artistic merit: nice looking scenery"},
-    { points = 1, page = 2, box = "06-02-01", desc = "artistic merit: scenery adapts to the track"}
+    { points = 5, page = 2, box = "06-03-01", desc = "Arc Length parameterization (train goes at a relatively constant speed as it goes around the track, no matter what the control point spacing is). You must add a checkbox to turn this on and off. This one is hard, but it enables several of the other things, so it is actually worth a lot"},
+    { points = 2, page = 2, box = "06-03-01", desc = "Rail Ties drawn perpendicular to track"},
+    { points = 2, page = 2, box = "06-03-01", desc = "Rail Ties drawn with correct spacing (this is simple once you have arc-length"},
+    { points = 3, page = 2, box = "06-03-01", desc = "Parallel rails"},
+    { points = 5, page = 2, box = "06-03-01", desc = "Multiple cars (requires keeping the cars a fixed distance apart)"},
+    { points = 3, page = 2, box = "06-03-01", desc = "Trucked wheels (requires keeping the pairs of wheels the correct distance apart and on the track, and having the train car positioned appropriately - this is only for people who are into trains and appreciate this detail)"},
+    { points = 1, page = 2, box = "06-03-01", desc = "slider to control tension"},
+    { points = 2, page = 2, box = "06-03-01", desc = "switchable B-Splines"},
+    { points = 2, page = 2, box = "06-03-01", desc = "Smoke"},
+    { points = 1, page = 2, box = "06-03-01", desc = "artistic merit: nice looking train"},
+    { points = 1, page = 2, box = "06-03-01", desc = "artistic merit: nice looking track"},
+    { points = 1, page = 2, box = "06-03-01", desc = "artistic merit: nice looking scenery"},
+    { points = 1, page = 2, box = "06-03-01", desc = "artistic merit: scenery adapts to the track"}
 ]
 
 ######################################################################
