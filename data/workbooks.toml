@@ -264,10 +264,11 @@ number = 6
 due = 2021-03-08
 name = "The Train (More Curves)"
 learninggoals = [
-    "To review the key concepts of parametric curves",
-    "To practice some key computations with curves",
-    "To implement various aspects of curves in the context of an application",
-    "To apprecaite why curve concepts, such as arc length parameterization and smoothness, are useful"
+    "To review the key concepts of parametric curves.",
+    "To practice some key computations with curves.",
+    "To implement various aspects of curves in the context of an application.",
+    "To appreciate why curve concepts, such as arc length parameterization and smoothness, are useful.",
+    "To write an interesting graphics program."
 ]
 points = [
     { points = 10, page = 1, box = "06-01-01", desc = "make a cardinal spline through the points"},
