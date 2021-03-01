@@ -380,8 +380,11 @@ jeff-chris-games-project:
 2014-train:
   url: http://graphics.cs.wisc.edu/WP/cs559-fall2014/2014/10/13/project-1-trains-and-roller-coasters/
   name: "2014 Train Assignment"
-1999-train:
+1999-course:
   url: https://research.cs.wisc.edu/graphics/Courses/638-f1999/
+  name: "1999 CS559 (really 638)"
+1999-train:
+  url: https://research.cs.wisc.edu/graphics/Courses/638-f1999/Projects/proj3.htm
   name: "1999 Train Assignment"
 
 2008-constructionsite:
