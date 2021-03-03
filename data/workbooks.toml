@@ -309,6 +309,7 @@ learninggoals = [
     "Get you to make some basics 3D pictures and animations using THREE.js and the basic pieces"
 ]
 points = [
+    { points = 2, page = 2, box="07-02-02", desc = "move the yellow cube"},
     { points = 10, page = 4, box = "07-04-03", desc = "stacking the boxes as described"},
     { points = 10, page = 5, box = "07-05-03", desc = "add lights to scene so that sides of the cubes appear in different colors"},
     { points = 10, page = 6, box = "07-06-01", desc = "give each sphere a different, non-white material"},
