@@ -309,14 +309,37 @@ learninggoals = [
     "Get you to make some basics 3D pictures and animations using THREE.js and the basic pieces"
 ]
 points = [
+    # front part 22 pts
+    { points = 5, page = "none", box = "none", desc = "correct handin with quiz"},
     { points = 2, page = 2, box="07-02-02", desc = "move the yellow cube"},
     { points = 10, page = 4, box = "07-04-03", desc = "stacking the boxes as described"},
-    { points = 10, page = 5, box = "07-05-03", desc = "add lights to scene so that sides of the cubes appear in different colors"},
-    { points = 10, page = 6, box = "07-06-01", desc = "give each sphere a different, non-white material"},
-    { points = 38, page = 8, box = "07-08-01", desc = "build a snowman as described"},
-    { points = 22, page = 9, box = "07-09-01", desc = "create the space-age museum as described"}
+    { points = 5, page = 5, box = "07-05-03", desc = "add lights to scene so that sides of the cubes appear in different colors"},
+
+    # Spheres 10
+    { points = 10, page = 6, box = "07-06-01", desc = "give each sphere a different, non-white material (1pt each, 1 pt for all different)"},
+
+    # Snowman 30
+    { points = 8, page = 8, box = "07-08-01", desc = "Visible Objects (requires lights, camera, at least some shapes)"},
+    { points = 3, page = 8, box = "07-08-01", desc = "Different materials used (everything isn't the same color"},
+    { points = 3, page = 8, box = "07-08-01", desc = "There is a ground, Snowman on ground"},
+    { points = 8, page = 8, box = "07-08-01", desc = "Snowman Body as 3 stacked spheres"},
+    { points = 8, page = 8, box = "07-08-01", desc = "Snowman Face (eyes, nose, mouth"},
+
+    # Museum 24
+    { points = 4,  page = 9, box = "07-09-01", desc = "Museum cameras work (1 pt per camera)"},
+    { points = 6,  page = 9, box = "07-09-01", desc = "Museum objects correctly placed (2 pt per new object)"},
+    { points = 6,  page = 9, box = "07-09-01", desc = "Museum objects move correctly (2 pt per new object), not all the same"},
+    { points = 4,  page = 9, box = "07-09-01", desc = "Museum objects each have spotlights (1 pt per object)"},
+    { points = 4, page = 9, box = "07-09-01", desc = "Each new object has its own material"}
 ]
+maxbonus = 10
 bonus = [
+    { points = 2, page = 8, box = "07-08-01", desc = "Animated snowman"},
+    { points = 4, page = 8, box = "07-08-01", desc = "Second, creative snowman"},
+    { points = 2, page = 8, box = "07-08-01", desc = "Artistic merit: Cool Snowman"},
+    #    
+    { points = 3, page = 9, box = "07-09-01", desc = "Artistic merit: Cool museum objects (1 pt each)"},
+    { points = 3, page = 9, box = "07-09-01", desc = "Artistic merit: Cool museum object motions (1 pt each)"},
 ]
 
 ######################################################################

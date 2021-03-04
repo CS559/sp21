@@ -288,7 +288,7 @@ threejs-lathe:
 
 threejs-getting-started:
   name: "THREE.js Getting Started"
-  url: https://github.com/mrdoob/three.js/wiki/Getting-Started
+  url: https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
 threejs-tutorial:
   name: "THREE.js Tutorial"
   url: https://medium.com/@benjamin.c.coleman/the-beginners-guide-to-beginning-three-js-c36b8947c2aa
