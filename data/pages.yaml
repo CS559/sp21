@@ -54,7 +54,9 @@ jsdoc:
   url: http://usejsdoc.org/
 ellas-deli:
   name: "Ella's Deli"
-  url: http://www.ellasdeli.com/carousel.php
+  url: https://isthmus.com/news/news/epic-buys-carousel-from-ellas-deli/
+  old_url: http://www.ellasdeli.com/carousel.php
+  updated: "3/7/2021"
 trip-savvy:
   name: "Trip Savvy"
   url: https://www.tripsavvy.com/types-of-theme-park-attractions-4110823
