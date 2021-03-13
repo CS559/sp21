@@ -238,7 +238,7 @@ threejs-object3D:
   url: https://threejs.org/docs/index.html#api/en/core/Object3D
 threejs-group:
   name: "documentation for `Group`"
-  url: (https://threejs.org/docs/index.html#api/en/objects/Group
+  url: https://threejs.org/docs/index.html#api/en/objects/Group
 threejs-orbitControls:
   name: "documentation for `OrbitControls`"
   url: https://threejs.org/docs/#examples/controls/OrbitControls
