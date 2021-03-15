@@ -358,7 +358,7 @@ learninggoals = [
     "To get some experience working with another person’s code"
 ]
 points = [
-    { points =  5, page = "none", box="none", desc="Correct hand-in"},
+    { points =  5, page = "none", box="none", desc="Correct hand-in (includes handin quiz)"},
     { points =  3, page = 2, box="none", desc="experimenting with the demos on page 2. (We’ll just trust that you’ve done it if you turn any other part in.)"},
     { points =  3, page = 3, box="none", desc="experimenting with the demos on page 3. (We’ll just trust that you’ve done it if you turn any other part in.)"},
     ## Quadcopter
