@@ -418,39 +418,47 @@ learninggoals = [
     "To gain some experience using shape and texture to create interesting 3D models."
 ]
 points = [
+    { points = 2, page = "none", box="none", desc = "Correct handin with Quiz"},
+    # page 2 - 15 - 3 objects with normals
     { points = 2, page = 2, box = "09-02-01", desc = "Object 1 has (at least) 3 triangles"},
-    { points = 3, page = 2, box = "09-02-01", desc = "Object 1 has face colors"},
-    { points = 1, page = 2, box = "09-02-01", desc = "Object 2 has (at least) 3 triangles"},
+    { points = 2, page = 2, box = "09-02-01", desc = "Object 1 has face colors"},
+    { points = 2, page = 2, box = "09-02-01", desc = "Object 2 has (at least) 3 triangles"},
     { points = 3, page = 2, box = "09-02-01", desc = "Object 2 had vertex colors where we can see blending"},
-    { points = 1, page = 2, box = "09-02-01", desc = "Object 3 has (at least) 3 triangles"},
+    { points = 2, page = 2, box = "09-02-01", desc = "Object 3 has (at least) 3 triangles"},
     { points = 3, page = 2, box = "09-02-01", desc = "Object 3 has normals that make things look smooth"},
-    { points = 2, page = 2, box = "09-02-01", desc = "Code Check: objects build “manually”"},
+    { points = 1, page = 2, box = "09-02-01", desc = "Code Check: objects build “manually”"},
+    ## Dice
     { points = 4, page = 5, box = "09-05-01", desc = "There are 2 dice"},
     { points = 4, page = 5, box = "09-05-01", desc = "Dice have numbers on their sides"},
     { points = 5, page = 5, box = "09-05-01", desc = "Dice have correct numbers on their sides"},
     { points = 2, page = 5, box = "09-05-01", desc = "The two dice show different numbers on top"},
-    { points = 2, page = 5, box = "09-05-01", desc = "Rounded edges"},
+    ## Dominos
     { points = 5, page = 5, box = "09-05-02", desc = "At least one domino"},
     { points = 10, page = 5, box = "09-05-02", desc = "The domino is a double 6 (correct texture)"},
+    # Buildings
+    { points = 4, page = 6, box = "09-06-01", desc = "Building Type 1"},
+    { points = 4, page = 6, box = "09-06-01", desc = "Has texture"},
+    { points = 4, page = 6, box = "09-06-01", desc = "Building Type 2"},
+    { points = 4, page = 6, box = "09-06-01", desc = "Has texture"},
+    { points = 4, page = 6, box = "09-06-01", desc = "Has different roof type than 1"},
+    { points = 4, page = 6, box = "09-06-01", desc = "Tree or plant" },
+
+    { points = 9, page = 7, box = "09-07-01", desc = "Car or Vehicle (looks like a car or other vehicle)"},
+    { points = 5, page = 7, box = "09-07-01", desc = "Has texture (or at least coloring)"},
+]
+bonus = [
+    { points = 2, page = 5, box = "09-05-01", desc = "Rounded edges (Dice)"},
+    { points = 2, page = 5, box = "09-05-02", desc = "Rounded edges (Domino)"},
     { points = 2, page = 5, box = "09-05-02", desc = "More dominos (with different numbers)"},
     { points = 2, page = 5, box = "09-05-02", desc = "Legal domino arrangement (at least 4 dominos)"},
-    { points = 2, page = 5, box = "09-05-02", desc = "Rounded edges"},
-    { points = 5, page = 6, box = "09-06-01", desc = "Building Type 1"},
-    { points = 5, page = 6, box = "09-06-01", desc = "Has texture"},
     { points = 2, page = 6, box = "09-06-01", desc = "fancy/complex texture and/or shape (building 1)"},
-    { points = 5, page = 6, box = "09-06-01", desc = "Building Type 2"},
-    { points = 5, page = 6, box = "09-06-01", desc = "Has texture"},
-    { points = 5, page = 6, box = "09-06-01", desc = "Has different roof type than 1"},
     { points = 2, page = 6, box = "09-06-01", desc = "fancy/complex texture and/or shape (building 2)"},
     { points = 1, page = 6, box = "09-06-01", desc = "Building Type 3"},
     { points = 2, page = 6, box = "09-06-01", desc = "different roof type than others"},
-    { points = 10, page = 7, box = "09-07-01", desc = "Car or Vehicle (looks like a car or other vehicle)"},
-    { points = 5, page = 7, box = "09-07-01", desc = "Has texture (or at least coloring)"},
     { points = 2, page = 7, box = "09-07-01", desc = "fancy vehicle"},
     { points = 2, page = 7, box = "09-07-01", desc = "more than 1 vehicle type"}
 ]
-bonus = [
-]
+maxbonus=15
 
 ######################################################################
 [[workbook]] # Workbook 10
