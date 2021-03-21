@@ -232,65 +232,65 @@ craig-reynolds-steering-behavior:
 
 threejs:
   name: "THREE.js Documentation"
-  url: https://threejs.org/docs/
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/
 threejs-object3D:
   name: "documentation for `Object3D`"
-  url: https://threejs.org/docs/index.html#api/en/core/Object3D
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/index.html#api/en/core/Object3D
 threejs-group:
   name: "documentation for `Group`"
-  url: https://threejs.org/docs/index.html#api/en/objects/Group
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/index.html#api/en/objects/Group
 threejs-orbitControls:
   name: "documentation for `OrbitControls`"
-  url: https://threejs.org/docs/#examples/controls/OrbitControls
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#examples/controls/OrbitControls
 threejs-webGlRenderer:
   name: "WebGLRenderer"
-  url: https://threejs.org/docs/index.html#api/en/renderers/WebGLRenderer
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/index.html#api/en/renderers/WebGLRenderer
 threejs-axesHelper:
   name: "AxesHelper"
-  url: https://threejs.org/docs/#api/en/helpers/AxesHelper
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/helpers/AxesHelper
 threejs-cameraHelper:
   name: "CameraHelper"
-  url: https://threejs.org/docs/#api/en/helpers/CameraHelper
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/helpers/CameraHelper
 threejs-mesh:
   name: "Mesh"
-  url: https://threejs.org/docs/index.html#api/en/objects/Mesh
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/index.html#api/en/objects/Mesh
 threejs-meshStandardMaterial:
   name: "MeshStandardMaterial"
-  url: https://threejs.org/docs/#api/en/materials/MeshStandardMaterial
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/materials/MeshStandardMaterial
 threejs-meshPhongMaterial:
   name: "MeshPhongMaterial"
-  url: https://threejs.org/docs/#api/en/materials/MeshPhongMaterial
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/materials/MeshPhongMaterial
 threejs-matrix:
   name: "matrix transformations"
-  url: https://threejs.org/docs/#manual/en/introduction/Matrix-transformations
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#manual/en/introduction/Matrix-transformations
 threejs-perspectiveCamera:
   name: "PerspectiveCamera"
-  url: https://threejs.org/docs/#api/en/cameras/PerspectiveCamera
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/cameras/PerspectiveCamera
 threejs-ambientLight:
   name: "AmbientLight"
-  url: https://threejs.org/docs/#api/en/lights/AmbientLight
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/lights/AmbientLight
 threejs-pointLight:
   name: "PointLight"
-  url: https://threejs.org/docs/#api/en/lights/PointLight
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/lights/PointLight
 threejs-spotLight:
   name: "SpotLight"
-  url: https://threejs.org/docs/#api/en/lights/SpotLight
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/lights/SpotLight
 threejs-directionalLight:
   name: "DirectionalLight"
-  url: https://threejs.org/docs/#api/en/lights/DirectionalLight
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/lights/DirectionalLight
 threejs-sphere:
   name: "sphere"
-  url: https://threejs.org/docs/api/en/geometries/SphereGeometry.html
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/api/en/geometries/SphereGeometry.html
 threejs-cone:
   name: "cone"
-  url: https://threejs.org/docs/#api/en/geometries/ConeGeometry
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/geometries/ConeGeometry
 threejs-lathe:
   name: "lathe"
-  url: https://threejs.org/docs/#api/en/geometries/LatheGeometry
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/geometries/LatheGeometry
 
 threejs-getting-started:
   name: "THREE.js Getting Started"
-  url: https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/index.html#manual/en/introduction/Creating-a-scene
 threejs-tutorial:
   name: "THREE.js Tutorial"
   url: https://medium.com/@benjamin.c.coleman/the-beginners-guide-to-beginning-three-js-c36b8947c2aa
@@ -581,20 +581,20 @@ wikipedia-bogie-diagram:
 #./Workbook09/content/docs/1.md:::36: (documentation)
 #./Workbook09/content/_index.md:::40: here
 threejs-geometry:
-  url: https://threejs.org/docs/#api/en/core/Geometry
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/core/Geometry
   name: "Geometry"
 
 
 #./Workbook09/content/docs/1.md:::32:
 threejs-mesh:
-  url: https://threejs.org/docs/#api/en/objects/Mesh
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/objects/Mesh
   name: "Mesh"
 
 
 #./Workbook09/content/docs/1.md:::36: `Face3`
 #./Workbook09/content/_index.md:::40: documentation
 threejs-face3:
-  url: https://threejs.org/docs/#api/en/core/Face3
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/core/Face3
   name: "`Face3`"
 
 
@@ -633,7 +633,7 @@ discoverthreejs-transformations-tutorial:
 
 #./Workbook09/content/_index.md:::46:
 threejs-texture:
-  url: https://threejs.org/docs/#api/en/textures/Texture
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/textures/Texture
   name: "`Texture`"
 
 
@@ -651,7 +651,7 @@ allen-threejs-baby-steps:
 
 #./Workbook10/content/docs/2.md:::10:
 threejs-meshstandardmaterial:
-  url: https://threejs.org/docs/#api/en/materials/MeshStandardMaterial
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/materials/MeshStandardMaterial
   name: "`MeshStandardMaterial`"
 
 
@@ -663,13 +663,13 @@ unity-standard-shader-material-parameter-normal-map:
 
 #./Workbook10/content/docs/4.md:::30:
 threejs-cube-texture:
-  url: https://threejs.org/docs/#api/en/textures/CubeTexture
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/textures/CubeTexture
   name: "`CubeTexture`"
 
 
 #./Workbook10/content/docs/4.md:::30:
 threejs-scene-background:
-  url: https://threejs.org/docs/#api/en/scenes/Scene.background
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/scenes/Scene.background
   name: "`background` of the `Scene`"
 
 
@@ -682,7 +682,7 @@ threejs-scene-background:
 
 #./Workbook10/content/docs/4.md:::54:
 threejs-cube-texture-loader:
-  url: https://threejs.org/docs/#api/en/loaders/CubeTextureLoader
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/loaders/CubeTextureLoader
   name: "`CubeTextureLoader`"
 
 
@@ -694,13 +694,13 @@ bourke-cubemaps:
 
 #./Workbook10/content/docs/5.md:::20:
 threejs-mesh-standard-material:
-  url: https://threejs.org/docs/#api/en/materials/MeshStandardMaterial.envMap
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/materials/MeshStandardMaterial.envMap
   name: "documentation"
 
 
 #./Workbook10/content/docs/5.md:::20:
 threejs-cube-texture:
-  url: https://threejs.org/docs/#api/en/textures/CubeTexture
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/textures/CubeTexture
   name: "`CubeTextureMap`"
 
 
@@ -740,7 +740,7 @@ framework-shader-helper:
 #./Workbook11/content/docs/3.md:::60: docs
 #./Workbook11/content/docs/4.md:::41: `WebGlProgram`
 threejs-webgl-program:
-  url: https://threejs.org/docs/#api/en/renderers/webgl/WebGLProgram
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/renderers/webgl/WebGLProgram
   name: "this page"
 
 
@@ -766,13 +766,13 @@ bkcore-blog-shdr:
 
 #./Workbook11/content/docs/3.md:::60:
 threejs-shader-material:
-  url: https://threejs.org/docs/#api/en/materials/ShaderMaterial
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/materials/ShaderMaterial
   name: "documentation"
 
 
 #./Workbook11/content/docs/4.md:::145:
 threejs-uniforms-lib:
-  url: https://threejs.org/docs/#api/en/renderers/shaders/UniformsLib
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/renderers/shaders/UniformsLib
   name: "`UniformsLib`"
 
 
