@@ -720,7 +720,7 @@ threejs-cube-texture:
 
 #./Workbook10/content/_index.md:::27:
 framework-documentation:
-  url: https://cs559.github.io/CS559-Framework/
+  url: https://cs559.github.io/CS559-Framework21-Docs/
   name: "framework code documentation"
 
 #./Workbook10/content/_index.md:::64:
@@ -731,7 +731,7 @@ hdri-haven:
 
 #./Workbook11/content/docs/2.md:::22:
 framework-shader-helper:
-  url: https://cs559.github.io/CS559-Framework/module-shaderHelper.html
+  url: https://cs559.github.io/CS559-Framework21-Docs/module-shaderHelper.html
   name: "documentation"
 
 
