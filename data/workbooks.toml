@@ -437,14 +437,17 @@ points = [
     { points = 10, page = 5, box = "09-05-02", desc = "The domino is a double 6 (correct texture)"},
     # Buildings
     { points = 4, page = 6, box = "09-06-01", desc = "Building Type 1"},
-    { points = 4, page = 6, box = "09-06-01", desc = "Has texture"},
-    { points = 4, page = 6, box = "09-06-01", desc = "Building Type 2"},
-    { points = 4, page = 6, box = "09-06-01", desc = "Has texture"},
+    { points = 3, page = 6, box = "09-06-01", desc = "Building 1 has texture"},
+    { points = 1, page = 6, box = "09-06-01", desc = "Building 1 described in txt"},
+    { points = 3, page = 6, box = "09-06-01", desc = "Building Type 2"},
+    { points = 1, page = 6, box = "09-06-01", desc = "Building 2 described in txt"},
+    { points = 4, page = 6, box = "09-06-01", desc = "Building 2 has texture"},
     { points = 4, page = 6, box = "09-06-01", desc = "Has different roof type than 1"},
     { points = 4, page = 6, box = "09-06-01", desc = "Tree or plant" },
 
-    { points = 9, page = 7, box = "09-07-01", desc = "Car or Vehicle (looks like a car or other vehicle)"},
+    { points = 8, page = 7, box = "09-07-01", desc = "Car or Vehicle (looks like a car or other vehicle)"},
     { points = 5, page = 7, box = "09-07-01", desc = "Has texture (or at least coloring)"},
+    { points = 1, page = 7, box = "09-07-01", desc = "Vehicle described in txt"},
 ]
 bonus = [
     { points = 2, page = 5, box = "09-05-01", desc = "Rounded edges (Dice)"},
