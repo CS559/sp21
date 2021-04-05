@@ -514,25 +514,30 @@ learninggoals = [
 ]
 points = [
     { points = 10, page = 1, box = "11-01-01", desc = "answered basic questions"},
-    { points = 3, page = 2, box="11-02-01", desc="change yellow to cyan"},
-
-    { points = 10, page = 5, box = "11-05-03", desc = "looks like a checkerboard"},
-    { points = 5, page = 5, box = "11-05-03", desc = "responds to slider"},
-    { points = 10, page = 5, box = "11-05-04", desc = "some other pattern"},
-    { points = 5, page = 6, box = "11-06-02", desc = "non-jaggy checkerboard"},
-    { points = 8, page = 8, box = "11-08-01", desc = "has a procedural pattern"},
-    { points = 7, page = 8, box = "11-08-01", desc = "has lighting"},
-    { points = 3, page = 8, box = "11-08-01", desc = "uses THREE lighting"},
-    { points = 8, page = 8, box = "11-08-02", desc = "has an image-based texture"},
-    { points = 7, page = 8, box = "11-08-02", desc = "has lighting"},
-    { points = 3, page = 8, box = "11-08-02", desc = "uses THREE lighting"},
-    { points = 2, page = 8, box = "11-08-02", desc = "does something besides just light texture"},
-    { points = 10, page = 8, box = "11-08-03", desc = "Some shader that is different than what is in other boxes"},
-    { points = 10, page = 9, box = "11-09-01", desc = "has some example"},
-    { points = 3, page = 9, box = "11-09-01", desc = "gives attribution"},
-    { points = 8, page = 9, box = "11-09-01", desc = "gives an explanation"}
+    { points = 1, page = 2, box = "11-02-02", desc = "change the color in 11-02-01.fs from yellow to something else"},
+    { points = 10, page = 6, box = "11-06-01", desc = "looks like a checkerboard"},
+    { points = 5, page = 6, box = "11-06-01", desc = "responds to slider"},
+    { points = 10, page = 6, box = "11-06-02", desc = "some other pattern"},
+    { points = 5, page = 7, box = "11-07-02", desc = "non-jaggy checkerboard"},
+    { points = 8, page = 9, box = "11-09-01", desc = "has a procedural pattern"},
+    { points = 7, page = 9, box = "11-09-01", desc = "has lighting"},
+    { points = 8, page = 9, box = "11-09-02", desc = "has an image-based texture"},
+    { points = 7, page = 9, box = "11-09-02", desc = "has lighting"},
+    { points = 2, page = 9, box = "11-09-02", desc = "does something besides just light texture"},
+    { points = 10, page = 9, box = "11-09-03", desc = "Some shader that is different than what is in other boxes"},
+    { points = 10, page = 10, box = "11-10-01", desc = "has some example"},
+    { points = 3, page = 10, box = "11-10-01", desc = "gives attribution"},
+    { points = 8, page = 10, box = "11-10-01", desc = "gives an explanation"}
 ]
 bonus = [
+    { points = 1, page = 2, box = "11-02-02", desc = "implement the color animation inside the fragment shader using the provided time uniform"},
+    { points = 1, page = 4, box = "11-04-02", desc = "make lighting one-sided" },
+    { points = 1, page = 4, box = "11-04-02", desc = "change lighting angle so that sphere is lit" },
+    { points = 1, page = 4, box = "11-04-03", desc = "specular lighting with adequate description" },
+    { points = 1, page = 5, box = "11-05-02", desc = "dots alternate between 2+ solid colors"},
+    { points = 1, page = 5, box = "11-05-02", desc = "each dot is a unique solid color"},
+    { points = 1, page = 5, box = "11-05-02", desc = "vertex shader: bump at each dot"},
+    { points = 1, page = 8, box = "11-08-02", desc = "customize the texture in islands.png"},
 ]
 
 ######################################################################
