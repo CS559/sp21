@@ -513,6 +513,9 @@ learninggoals = [
     "See how shaders are managed and integrated into a graphics application."
 ]
 points = [
+    { points = 10, page = 1, box = "11-01-01", desc = "answered basic questions"},
+    { points = 3, page = 2, box="11-02-01", desc="change yellow to cyan"},
+
     { points = 10, page = 5, box = "11-05-03", desc = "looks like a checkerboard"},
     { points = 5, page = 5, box = "11-05-03", desc = "responds to slider"},
     { points = 10, page = 5, box = "11-05-04", desc = "some other pattern"},
