@@ -541,11 +541,7 @@ points = [
     { points = 5, page = 10, box = "11-10-01", desc = "gives an explanation"}
 ]
 bonus = [
-    { points = 1, page = 2, box = "11-02-02", desc = "implement the color animation inside the fragment shader using the provided time uniform"},
-
-    # { points = 1, page = 4, box = "11-04-02", desc = "make lighting one-sided" },
-    # { points = 1, page = 4, box = "11-04-02", desc = "change lighting angle so that sphere is lit" },
-    { points = 1, page = 4, box = "11-04-03", desc = "specular lighting with adequate description" },
+    { points = 2, page = 2, box = "11-02-02", desc = "implement the color animation inside the fragment shader using the provided time uniform"},
 
     # { points = 1, page = 5, box = "11-05-02", desc = "vertex shader: bump at each dot"},
     # { points = 1, page = 8, box = "11-08-02", desc = "customize the texture in islands.png"},
