@@ -515,7 +515,7 @@ learninggoals = [
 points = [
     # basic questions 20 points
     { points = 3, page = 1, box = "11-01-01", desc = "answered basic questions"},
-    { points = 4, page = 2, box = "11-02-02", desc = "change the color in 11-02-01.fs from yellow to something else"},
+    { points = 4, page = 2, box = "11-02-01", desc = "change the color in 11-02-01.fs from yellow to something else"},
     { points = 5, page = 5, box = "11-05-02", desc = "dots alternate between 2+ solid colors"},
     { points = 2, page = 4, box = "11-04-02b", desc = "change diffuse lighting (direction and 2-sidedness)"},
     { points = 3, page = 4, box = "11-04-03", desc = "add diffuse lighting"},
