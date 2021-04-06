@@ -794,12 +794,6 @@ the-book-of-shaders-examples:
   name: "The Book of Shaders"
 
 
-#./Workbook11/content/docs/9.md:::17:
-centiscript:
-  url: http://ex.rzm.co.jp/centiscript/
-  name: "CentiScript"
-
-
 #./Workbook11/content/docs/9.md:::18:
 shaderfrog: "ShaderFrog"
 
