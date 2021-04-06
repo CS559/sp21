@@ -74,22 +74,22 @@ webgl-ref-card:
   name: "WebGL Reference Card"
 # Chapters of the GLSL book
 glsl-1:
-  url: https://canvas.wisc.edu/files/12330188
+  url: https://canvas.wisc.edu/files/17444789
   name: "OpenGL Shading Language (3e) Chapter 1"
 glsl-2:
-  url: https://canvas.wisc.edu/files/12330187
+  url: https://canvas.wisc.edu/files/17444774
   name: "OpenGL Shading Language (3e) Chapter 2"
 glsl-3:
-  url: https://canvas.wisc.edu/files/12330186
+  url: https://canvas.wisc.edu/files/17444773
   name: "OpenGL Shading Language (3e) Chapter 3"
 glsl-4:
-  url: https://canvas.wisc.edu/files/12330185
+  url: https://canvas.wisc.edu/files/17444790
   name: "OpenGL Shading Language (3e) Chapter 4"
 glsl-5:
-  url: https://canvas.wisc.edu/files/12330184
+  url: https://canvas.wisc.edu/files/17444772
   name: "OpenGL Shading Language (3e) Chapter 5"
 glsl-6:
-  url: https://canvas.wisc.edu/files/12330181
+  url: https://canvas.wisc.edu/files/17444791
   name: "OpenGL Shading Language (3e) Chapter 6"
 glsl-book:
   url: https://amzn.to/2x9wtyF
