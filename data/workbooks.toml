@@ -554,13 +554,26 @@ bonus = [
 ######################################################################
 [[workbook]] # Workbook 12
 number = 12
-due = 2021-04-26
+due = 2021-04-28
 name = "Graphics Town"
 learninggoals = [
+    "To gain experience applying the concepts from class in order to create something more interesting",
+    "To apply texturing techniques to create appearances",
+    "To practice fitting different types of models together to make a scene",
+    "To experiment with methods for creating objects and behaviors",
+    "To experiment with advanced interactive graphics techniques"
 ]
 points = [
+    { points=3, page=1, box="12-01-01", desc="Skybox in exercise"},
+    { points=3, page=1, box="12-01-01", desc="environment map"},
+    { points=3, page=1, box="12-01-01", desc="bump or normal map"},
+    { points=2, page=1, box="12-01-01", desc="fill in text box"},
+    { points=4, page=1, box="12-01-02", desc="answer 4 questions in text box"},
+    { points=70, page=2, box="12-grtown", desc="basic points for graphics town"}
+
 ]
 bonus = [
+    { points=15, page=2, box="12-grtown", desc="bonus points for graphics town"}
 ]
 
 ######################################################################
